@@ -1,0 +1,1427 @@
+<div class="TakeExamWrapper">
+    <div class="TakeExamHeader">
+        <h2 style="font-size: 30px;font-weight: bolder;color: #008000;">Analysis Report</h2>
+        <hr style="margin:0px;">
+        <h2 style="font-size: 25px;">Engineering Admission Program 2022</h2>
+        <h3>Medical Standard Booster MCQ Practice Physics-02</h3>
+                        
+
+    </div>
+            <div class="TakeExamBody">
+                        <div class="row questionBlock">
+
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 1 </span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <p>চাঁদ প্রায় কত দিনে পৃথিবীকে একবার প্রদক্ষিণ করে?</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row questionOptions">
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">A</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>৬০ দিন</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">B</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>৩০ দিন</p>
+</label>
+                                                <span class="fas fa-check"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">C</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>১ দিন</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text" style="font-weight:bold;">D</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>২৪ দিন</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                    <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                                        <span style="color: black !important; font-weight: bold;">Solution:</span>
+                                        <br>
+                                        <span style="color: black !important;"><p>[ইসহাক স্যার: সংস্করণ- ২০২২, পৃষ্ঠা- ৪৪৪]</p>
+</span>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="row questionBlock">
+
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 2 </span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <p>সরল দোলন গতির ক্ষেত্রে কোন বৈশিষ্ট্যটি সঠিক নয়?</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row questionOptions">
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">A</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>গতিপথের মধ্য অবস্থানে বেগ সর্বনিম্ন</p>
+</label>
+                                                <span class="fas fa-check"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">B</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>গতি সরলরৈখিক</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">C</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>ত্বরণ সরণের সমানুপাতিক</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text" style="font-weight:bold;">D</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>পর্যাবৃত্ত গতি</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                    <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                                        <span style="color: black !important; font-weight: bold;">Solution:</span>
+                                        <br>
+                                        <span style="color: black !important;"><p>জেনে রাখো: সরল দোলন গতির ক্ষেত্রে গতিপথের মধ্য অবস্থানে বেগ সর্বাধিক, সরণ সর্বনিম্ন।<br>
+[ইসহাক স্যার: সংস্করণ- ২০২২, পৃষ্ঠা- ৫৮২]</p>
+</span>
+                                    </div>
+                            </div>
+                        </div>
+                        
+                        <div class="row questionBlock">
+
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 4 </span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <p>সরলদোলকের কত তম সূত্র দৈর্ঘ্যের সূত্র হিসেবে পরিচিত?</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row questionOptions">
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">A</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>২য়</p>
+</label>
+                                                <span class="fas fa-check"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">B</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>৩য়</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">C</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>৪র্থ</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text" style="font-weight:bold;">D</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>১ম</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                    <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                                        <span style="color: black !important; font-weight: bold;">Solution:</span>
+                                        <br>
+                                        <span style="color: black !important;"><p>জেনে রাখো: সরল দোলকের সূত্র ৪ টি। যথা: i. সমকাল সূত্র, ii. দৈর্ঘ্যের সূত্র, iii. ত্বরণের সূত্র iv. ভরের সূত্র<br>
+[ইসহাক স্যার: সংস্করণ- ২০২২, পৃষ্ঠা- ৫৮১]</p>
+</span>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="row questionBlock">
+
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 5 </span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <p>পয়সনের অনুপাতের সঠিক মান কোনটি?</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row questionOptions">
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">A</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p><span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-1-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&amp;#x2264;</mo><mi>&amp;#x03C3;</mi><mo>&amp;#x2264;</mo><mn>1</mn></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-1" style="width: 5.467em; display: inline-block;"><span style="display: inline-block; position: relative; width: 4.465em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.186em, 1004.37em, 2.689em, -999.998em); top: -2.184em; left: 0em;"><span class="mrow" id="MathJax-Span-2"><span class="mfrac" id="MathJax-Span-3"><span style="display: inline-block; position: relative; width: 0.458em; height: 0px; margin-right: 0.139em; margin-left: 0.139em;"><span style="position: absolute; clip: rect(3.418em, 1000.32em, 4.146em, -999.998em); top: -4.415em; left: 50%; margin-left: -0.18em;"><span class="mn" id="MathJax-Span-4" style="font-size: 70.7%; font-family: MathJax_Main;">1</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; clip: rect(3.418em, 1000.32em, 4.146em, -999.998em); top: -3.641em; left: 50%; margin-left: -0.18em;"><span class="mn" id="MathJax-Span-5" style="font-size: 70.7%; font-family: MathJax_Main;">2</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; clip: rect(0.867em, 1000.46em, 1.186em, -999.998em); top: -1.273em; left: 0em;"><span style="display: inline-block; overflow: hidden; vertical-align: 0em; border-top: 1.3px solid; width: 0.458em; height: 0px;"></span><span style="display: inline-block; width: 0px; height: 1.05em;"></span></span></span></span><span class="mo" id="MathJax-Span-6" style="font-family: MathJax_Main; padding-left: 0.276em;">≤</span><span class="mi" id="MathJax-Span-7" style="font-family: MathJax_Math-italic; padding-left: 0.276em;">σ<span style="display: inline-block; overflow: hidden; height: 1px; width: 0.002em;"></span></span><span class="mo" id="MathJax-Span-8" style="font-family: MathJax_Main; padding-left: 0.276em;">≤</span><span class="mn" id="MathJax-Span-9" style="font-family: MathJax_Main; padding-left: 0.276em;">1</span></span><span style="display: inline-block; width: 0px; height: 2.188em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.497em; border-left: 0px solid; width: 0px; height: 1.614em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>≤</mo><mi>σ</mi><mo>≤</mo><mn>1</mn></math></span></span><script type="math/tex" id="MathJax-Element-1">\rm \frac{1}{2}\le\sigma\le1 </script></span></p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">B</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p><span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-2-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo>&amp;#x2212;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&amp;lt;</mo><mi>&amp;#x03C3;</mi><mo>&amp;lt;</mo><mn>1</mn></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-10" style="width: 6.423em; display: inline-block;"><span style="display: inline-block; position: relative; width: 5.239em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.186em, 1005.15em, 2.689em, -999.998em); top: -2.184em; left: 0em;"><span class="mrow" id="MathJax-Span-11"><span class="mo" id="MathJax-Span-12" style="font-family: MathJax_Main;">−</span><span class="mfrac" id="MathJax-Span-13"><span style="display: inline-block; position: relative; width: 0.458em; height: 0px; margin-right: 0.139em; margin-left: 0.139em;"><span style="position: absolute; clip: rect(3.418em, 1000.32em, 4.146em, -999.998em); top: -4.415em; left: 50%; margin-left: -0.18em;"><span class="mn" id="MathJax-Span-14" style="font-size: 70.7%; font-family: MathJax_Main;">1</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; clip: rect(3.418em, 1000.32em, 4.146em, -999.998em); top: -3.641em; left: 50%; margin-left: -0.18em;"><span class="mn" id="MathJax-Span-15" style="font-size: 70.7%; font-family: MathJax_Main;">2</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; clip: rect(0.867em, 1000.46em, 1.186em, -999.998em); top: -1.273em; left: 0em;"><span style="display: inline-block; overflow: hidden; vertical-align: 0em; border-top: 1.3px solid; width: 0.458em; height: 0px;"></span><span style="display: inline-block; width: 0px; height: 1.05em;"></span></span></span></span><span class="mo" id="MathJax-Span-16" style="font-family: MathJax_Main; padding-left: 0.276em;">&lt;</span><span class="mi" id="MathJax-Span-17" style="font-family: MathJax_Math-italic; padding-left: 0.276em;">σ<span style="display: inline-block; overflow: hidden; height: 1px; width: 0.002em;"></span></span><span class="mo" id="MathJax-Span-18" style="font-family: MathJax_Main; padding-left: 0.276em;">&lt;</span><span class="mn" id="MathJax-Span-19" style="font-family: MathJax_Main; padding-left: 0.276em;">1</span></span><span style="display: inline-block; width: 0px; height: 2.188em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.497em; border-left: 0px solid; width: 0px; height: 1.614em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&lt;</mo><mi>σ</mi><mo>&lt;</mo><mn>1</mn></math></span></span><script type="math/tex" id="MathJax-Element-2">\rm -\frac{1}{2}<\sigma<1 </script></span></p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">C</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p><span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-3-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo>&amp;#x2212;</mo><mn>1</mn><mo>&amp;lt;</mo><mi>&amp;#x03C3;</mi><mo>&amp;lt;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-20" style="width: 6.423em; display: inline-block;"><span style="display: inline-block; position: relative; width: 5.239em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.186em, 1005.24em, 2.689em, -999.998em); top: -2.184em; left: 0em;"><span class="mrow" id="MathJax-Span-21"><span class="mo" id="MathJax-Span-22" style="font-family: MathJax_Main;">−</span><span class="mn" id="MathJax-Span-23" style="font-family: MathJax_Main;">1</span><span class="mo" id="MathJax-Span-24" style="font-family: MathJax_Main; padding-left: 0.276em;">&lt;</span><span class="mi" id="MathJax-Span-25" style="font-family: MathJax_Math-italic; padding-left: 0.276em;">σ<span style="display: inline-block; overflow: hidden; height: 1px; width: 0.002em;"></span></span><span class="mo" id="MathJax-Span-26" style="font-family: MathJax_Main; padding-left: 0.276em;">&lt;</span><span class="mfrac" id="MathJax-Span-27" style="padding-left: 0.276em;"><span style="display: inline-block; position: relative; width: 0.458em; height: 0px; margin-right: 0.139em; margin-left: 0.139em;"><span style="position: absolute; clip: rect(3.418em, 1000.32em, 4.146em, -999.998em); top: -4.415em; left: 50%; margin-left: -0.18em;"><span class="mn" id="MathJax-Span-28" style="font-size: 70.7%; font-family: MathJax_Main;">1</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; clip: rect(3.418em, 1000.32em, 4.146em, -999.998em); top: -3.641em; left: 50%; margin-left: -0.18em;"><span class="mn" id="MathJax-Span-29" style="font-size: 70.7%; font-family: MathJax_Main;">2</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; clip: rect(0.867em, 1000.46em, 1.186em, -999.998em); top: -1.273em; left: 0em;"><span style="display: inline-block; overflow: hidden; vertical-align: 0em; border-top: 1.3px solid; width: 0.458em; height: 0px;"></span><span style="display: inline-block; width: 0px; height: 1.05em;"></span></span></span></span></span><span style="display: inline-block; width: 0px; height: 2.188em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.497em; border-left: 0px solid; width: 0px; height: 1.614em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>−</mo><mn>1</mn><mo>&lt;</mo><mi>σ</mi><mo>&lt;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math></span></span><script type="math/tex" id="MathJax-Element-3">\rm -1<\sigma<\frac{1}{2} </script></span></p>
+</label>
+                                                <span class="fas fa-check"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text" style="font-weight:bold;">D</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p><span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-4-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo>&amp;#x2212;</mo><mn>1</mn><mo>&amp;#x2264;</mo><mi>&amp;#x03C3;</mi><mo>&amp;lt;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-30" style="width: 6.423em; display: inline-block;"><span style="display: inline-block; position: relative; width: 5.239em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.186em, 1005.24em, 2.689em, -999.998em); top: -2.184em; left: 0em;"><span class="mrow" id="MathJax-Span-31"><span class="mo" id="MathJax-Span-32" style="font-family: MathJax_Main;">−</span><span class="mn" id="MathJax-Span-33" style="font-family: MathJax_Main;">1</span><span class="mo" id="MathJax-Span-34" style="font-family: MathJax_Main; padding-left: 0.276em;">≤</span><span class="mi" id="MathJax-Span-35" style="font-family: MathJax_Math-italic; padding-left: 0.276em;">σ<span style="display: inline-block; overflow: hidden; height: 1px; width: 0.002em;"></span></span><span class="mo" id="MathJax-Span-36" style="font-family: MathJax_Main; padding-left: 0.276em;">&lt;</span><span class="mfrac" id="MathJax-Span-37" style="padding-left: 0.276em;"><span style="display: inline-block; position: relative; width: 0.458em; height: 0px; margin-right: 0.139em; margin-left: 0.139em;"><span style="position: absolute; clip: rect(3.418em, 1000.32em, 4.146em, -999.998em); top: -4.415em; left: 50%; margin-left: -0.18em;"><span class="mn" id="MathJax-Span-38" style="font-size: 70.7%; font-family: MathJax_Main;">1</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; clip: rect(3.418em, 1000.32em, 4.146em, -999.998em); top: -3.641em; left: 50%; margin-left: -0.18em;"><span class="mn" id="MathJax-Span-39" style="font-size: 70.7%; font-family: MathJax_Main;">2</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; clip: rect(0.867em, 1000.46em, 1.186em, -999.998em); top: -1.273em; left: 0em;"><span style="display: inline-block; overflow: hidden; vertical-align: 0em; border-top: 1.3px solid; width: 0.458em; height: 0px;"></span><span style="display: inline-block; width: 0px; height: 1.05em;"></span></span></span></span></span><span style="display: inline-block; width: 0px; height: 2.188em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.497em; border-left: 0px solid; width: 0px; height: 1.614em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>−</mo><mn>1</mn><mo>≤</mo><mi>σ</mi><mo>&lt;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math></span></span><script type="math/tex" id="MathJax-Element-4">\rm -1\le\sigma<\frac{1}{2} </script></span></p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                    <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                                        <span style="color: black !important; font-weight: bold;">Solution:</span>
+                                        <br>
+                                        <span style="color: black !important;"><p>[ইসহাক স্যার: সংস্করণ- ২০২২, পৃষ্ঠা- ৫০৮]</p>
+</span>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="row questionBlock">
+
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 6 </span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <p>কোন তাপমাত্রাকে চরম শীতলতা ধরা হয়?</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row questionOptions">
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">A</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p><span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-5-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mn>273</mn><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>&amp;#x2103;</mo></mrow></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-40" style="width: 2.871em; display: inline-block;"><span style="display: inline-block; position: relative; width: 2.325em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.232em, 1002.33em, 2.507em, -999.998em); top: -2.184em; left: 0em;"><span class="mrow" id="MathJax-Span-41"><span class="mn" id="MathJax-Span-42" style="font-family: MathJax_Main;">273</span><span class="texatom" id="MathJax-Span-43"><span class="mrow" id="MathJax-Span-44"><span class="mo" id="MathJax-Span-45"><span style="font-family: STIXGeneral, &quot;Arial Unicode MS&quot;, serif; font-size: 82%; font-style: normal; font-weight: normal;">℃</span></span></span></span></span><span style="display: inline-block; width: 0px; height: 2.188em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.275em; border-left: 0px solid; width: 0px; height: 1.336em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>273</mn><mrow class="MJX-TeXAtom-ORD"><mo>℃</mo></mrow></math></span></span><script type="math/tex" id="MathJax-Element-5">273℃</script></span></p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">B</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p><span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-6-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo>&amp;#x2212;</mo><mn>273</mn><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>&amp;#x2109;</mo></mrow></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-46" style="width: 3.691em; display: inline-block;"><span style="display: inline-block; position: relative; width: 3.008em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.232em, 1003.01em, 2.507em, -999.998em); top: -2.184em; left: 0em;"><span class="mrow" id="MathJax-Span-47"><span class="mo" id="MathJax-Span-48" style="font-family: MathJax_Main;">−</span><span class="mn" id="MathJax-Span-49" style="font-family: MathJax_Main;">273</span><span class="texatom" id="MathJax-Span-50"><span class="mrow" id="MathJax-Span-51"><span class="mo" id="MathJax-Span-52"><span style="font-family: STIXGeneral, &quot;Arial Unicode MS&quot;, serif; font-size: 82%; font-style: normal; font-weight: normal;">℉</span></span></span></span></span><span style="display: inline-block; width: 0px; height: 2.188em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.275em; border-left: 0px solid; width: 0px; height: 1.336em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>−</mo><mn>273</mn><mrow class="MJX-TeXAtom-ORD"><mo>℉</mo></mrow></math></span></span><script type="math/tex" id="MathJax-Element-6">-273℉</script></span></p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">C</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p><span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-7-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mn>0</mn><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>&amp;#x2103;</mo></mrow></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-53" style="width: 1.642em; display: inline-block;"><span style="display: inline-block; position: relative; width: 1.323em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.232em, 1001.32em, 2.507em, -999.998em); top: -2.184em; left: 0em;"><span class="mrow" id="MathJax-Span-54"><span class="mn" id="MathJax-Span-55" style="font-family: MathJax_Main;">0</span><span class="texatom" id="MathJax-Span-56"><span class="mrow" id="MathJax-Span-57"><span class="mo" id="MathJax-Span-58"><span style="font-family: STIXGeneral, &quot;Arial Unicode MS&quot;, serif; font-size: 82%; font-style: normal; font-weight: normal;">℃</span></span></span></span></span><span style="display: inline-block; width: 0px; height: 2.188em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.275em; border-left: 0px solid; width: 0px; height: 1.336em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>0</mn><mrow class="MJX-TeXAtom-ORD"><mo>℃</mo></mrow></math></span></span><script type="math/tex" id="MathJax-Element-7">0℃</script></span></p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text" style="font-weight:bold;">D</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p><span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-8-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo>&amp;#x2212;</mo><mn>273</mn><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>&amp;#x2103;</mo></mrow></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-59" style="width: 3.782em; display: inline-block;"><span style="display: inline-block; position: relative; width: 3.099em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.232em, 1003.1em, 2.507em, -999.998em); top: -2.184em; left: 0em;"><span class="mrow" id="MathJax-Span-60"><span class="mo" id="MathJax-Span-61" style="font-family: MathJax_Main;">−</span><span class="mn" id="MathJax-Span-62" style="font-family: MathJax_Main;">273</span><span class="texatom" id="MathJax-Span-63"><span class="mrow" id="MathJax-Span-64"><span class="mo" id="MathJax-Span-65"><span style="font-family: STIXGeneral, &quot;Arial Unicode MS&quot;, serif; font-size: 82%; font-style: normal; font-weight: normal;">℃</span></span></span></span></span><span style="display: inline-block; width: 0px; height: 2.188em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.275em; border-left: 0px solid; width: 0px; height: 1.336em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>−</mo><mn>273</mn><mrow class="MJX-TeXAtom-ORD"><mo>℃</mo></mrow></math></span></span><script type="math/tex" id="MathJax-Element-8">-273℃</script></span></p>
+</label>
+                                                <span class="fas fa-check"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                    <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                                        <span style="color: black !important; font-weight: bold;">Solution:</span>
+                                        <br>
+                                        <span style="color: black !important;"><p>জেনে রাখো: <span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-9-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo>&amp;#x2212;</mo><mn>273</mn><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>&amp;#xB0;</mo></mrow><mi mathvariant=&quot;normal&quot;>C</mi></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-66" style="width: 3.527em; display: inline-block;"><span style="display: inline-block; position: relative; width: 2.871em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.191em, 1002.83em, 2.215em, -999.998em); top: -2.006em; left: 0em;"><span class="mrow" id="MathJax-Span-67"><span class="mo" id="MathJax-Span-68" style="font-family: MathJax_Main;">−</span><span class="mn" id="MathJax-Span-69" style="font-family: MathJax_Main;">273</span><span class="texatom" id="MathJax-Span-70"><span class="mrow" id="MathJax-Span-71"><span class="mo" id="MathJax-Span-72" style="font-family: MathJax_Main;">°</span></span></span><span class="mi" id="MathJax-Span-73" style="font-family: MathJax_Main;">C</span></span><span style="display: inline-block; width: 0px; height: 2.01em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.148em; border-left: 0px solid; width: 0px; height: 1.052em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>−</mo><mn>273</mn><mrow class="MJX-TeXAtom-ORD"><mo>°</mo></mrow><mi mathvariant="normal">C</mi></math></span></span><script type="math/tex" id="MathJax-Element-9">\rm -273°C</script></span> &nbsp;তাপমাত্রাকে সর্বনিম্ন&nbsp;তাপমাত্রা বা চরম শীতলতা বা চরম বা পরম শূন্য তাপমাত্রা বলে।<br>
+[ইসহাক স্যার: সংস্করণ- ২০২২, পৃষ্ঠা- ৭৪৫]</p>
+</span>
+                                    </div>
+                            </div>
+                        </div>
+                        
+                        <div class="row questionBlock">
+
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 8 </span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <p>সরল দোলন গতিসম্পন্ন কণার সরণ ও ত্বরণের মধ্যকার দশা পার্থক্য কত?</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row questionOptions">
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">A</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>60°</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">B</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>180°</p>
+</label>
+                                                <span class="fas fa-check"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">C</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>45°</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text" style="font-weight:bold;">D</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>90°</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                    <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                                        <span style="color: black !important; font-weight: bold;">Solution:</span>
+                                        <br>
+                                        <span style="color: black !important;"><p>[ইসহাক স্যার: সংস্করণ- ২০২২, পৃষ্ঠা- ৬১৯]</p>
+</span>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="row questionBlock">
+
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 9 </span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <p>পৃথিবীর পৃষ্ঠ হতে কোন বস্তুর মুক্তিবেগের মান কত?</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row questionOptions">
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">A</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p><span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-14-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mn>7</mn><mtext>&amp;#xA0;</mtext><mi mathvariant=&quot;normal&quot;>k</mi><mi mathvariant=&quot;normal&quot;>m</mi><msup><mi mathvariant=&quot;normal&quot;>h</mi><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>&amp;#x2212;</mo><mn>1</mn></mrow></msup></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-111" style="width: 4.465em; display: inline-block;"><span style="display: inline-block; position: relative; width: 3.645em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.232em, 1003.64em, 2.325em, -999.998em); top: -2.184em; left: 0em;"><span class="mrow" id="MathJax-Span-112"><span class="mn" id="MathJax-Span-113" style="font-family: MathJax_Main;">7</span><span class="mtext" id="MathJax-Span-114" style="font-family: MathJax_Main;">&nbsp;</span><span class="mi" id="MathJax-Span-115" style="font-family: MathJax_Main;">k</span><span class="mi" id="MathJax-Span-116" style="font-family: MathJax_Main;">m</span><span class="msubsup" id="MathJax-Span-117"><span style="display: inline-block; position: relative; width: 1.551em; height: 0px;"><span style="position: absolute; clip: rect(3.19em, 1000.55em, 4.146em, -999.998em); top: -4.005em; left: 0em;"><span class="mi" id="MathJax-Span-118" style="font-family: MathJax_Main;">h</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; top: -4.369em; left: 0.549em;"><span class="texatom" id="MathJax-Span-119"><span class="mrow" id="MathJax-Span-120"><span class="mo" id="MathJax-Span-121" style="font-size: 70.7%; font-family: MathJax_Main;">−</span><span class="mn" id="MathJax-Span-122" style="font-size: 70.7%; font-family: MathJax_Main;">1</span></span></span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span></span></span></span><span style="display: inline-block; width: 0px; height: 2.188em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.053em; border-left: 0px solid; width: 0px; height: 1.169em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>7</mn><mtext>&nbsp;</mtext><mi mathvariant="normal">k</mi><mi mathvariant="normal">m</mi><msup><mi mathvariant="normal">h</mi><mrow class="MJX-TeXAtom-ORD"><mo>−</mo><mn>1</mn></mrow></msup></math></span></span><script type="math/tex" id="MathJax-Element-14">\rm 7\ kmh^{-1} </script></span></p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">B</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p><span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-15-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mn>11.2</mn><mtext>&amp;#xA0;</mtext><mi mathvariant=&quot;normal&quot;>m</mi><msup><mi mathvariant=&quot;normal&quot;>s</mi><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>&amp;#x2212;</mo><mn>1</mn></mrow></msup></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-123" style="width: 5.194em; display: inline-block;"><span style="display: inline-block; position: relative; width: 4.237em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.232em, 1004.24em, 2.325em, -999.998em); top: -2.184em; left: 0em;"><span class="mrow" id="MathJax-Span-124"><span class="mn" id="MathJax-Span-125" style="font-family: MathJax_Main;">11.2</span><span class="mtext" id="MathJax-Span-126" style="font-family: MathJax_Main;">&nbsp;</span><span class="mi" id="MathJax-Span-127" style="font-family: MathJax_Main;">m</span><span class="msubsup" id="MathJax-Span-128"><span style="display: inline-block; position: relative; width: 1.368em; height: 0px;"><span style="position: absolute; clip: rect(3.418em, 1000.37em, 4.146em, -999.998em); top: -4.005em; left: 0em;"><span class="mi" id="MathJax-Span-129" style="font-family: MathJax_Main;">s</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; top: -4.369em; left: 0.412em;"><span class="texatom" id="MathJax-Span-130"><span class="mrow" id="MathJax-Span-131"><span class="mo" id="MathJax-Span-132" style="font-size: 70.7%; font-family: MathJax_Main;">−</span><span class="mn" id="MathJax-Span-133" style="font-size: 70.7%; font-family: MathJax_Main;">1</span></span></span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span></span></span></span><span style="display: inline-block; width: 0px; height: 2.188em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.053em; border-left: 0px solid; width: 0px; height: 1.169em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>11.2</mn><mtext>&nbsp;</mtext><mi mathvariant="normal">m</mi><msup><mi mathvariant="normal">s</mi><mrow class="MJX-TeXAtom-ORD"><mo>−</mo><mn>1</mn></mrow></msup></math></span></span><script type="math/tex" id="MathJax-Element-15">\rm 11.2\ ms^{-1} </script></span></p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">C</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p><span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-16-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mn>25000</mn><mtext>&amp;#xA0;</mtext><mi mathvariant=&quot;normal&quot;>m</mi><mi mathvariant=&quot;normal&quot;>i</mi><mi mathvariant=&quot;normal&quot;>l</mi><mi mathvariant=&quot;normal&quot;>e</mi><msup><mi mathvariant=&quot;normal&quot;>h</mi><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>&amp;#x2212;</mo><mn>1</mn></mrow></msup></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-134" style="width: 7.516em; display: inline-block;"><span style="display: inline-block; position: relative; width: 6.15em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.232em, 1006.15em, 2.325em, -999.998em); top: -2.184em; left: 0em;"><span class="mrow" id="MathJax-Span-135"><span class="mn" id="MathJax-Span-136" style="font-family: MathJax_Main;">25000</span><span class="mtext" id="MathJax-Span-137" style="font-family: MathJax_Main;">&nbsp;</span><span class="mi" id="MathJax-Span-138" style="font-family: MathJax_Main;">m</span><span class="mi" id="MathJax-Span-139" style="font-family: MathJax_Main;">i</span><span class="mi" id="MathJax-Span-140" style="font-family: MathJax_Main;">l</span><span class="mi" id="MathJax-Span-141" style="font-family: MathJax_Main;">e</span><span class="msubsup" id="MathJax-Span-142"><span style="display: inline-block; position: relative; width: 1.551em; height: 0px;"><span style="position: absolute; clip: rect(3.19em, 1000.55em, 4.146em, -999.998em); top: -4.005em; left: 0em;"><span class="mi" id="MathJax-Span-143" style="font-family: MathJax_Main;">h</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; top: -4.369em; left: 0.549em;"><span class="texatom" id="MathJax-Span-144"><span class="mrow" id="MathJax-Span-145"><span class="mo" id="MathJax-Span-146" style="font-size: 70.7%; font-family: MathJax_Main;">−</span><span class="mn" id="MathJax-Span-147" style="font-size: 70.7%; font-family: MathJax_Main;">1</span></span></span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span></span></span></span><span style="display: inline-block; width: 0px; height: 2.188em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.053em; border-left: 0px solid; width: 0px; height: 1.169em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>25000</mn><mtext>&nbsp;</mtext><mi mathvariant="normal">m</mi><mi mathvariant="normal">i</mi><mi mathvariant="normal">l</mi><mi mathvariant="normal">e</mi><msup><mi mathvariant="normal">h</mi><mrow class="MJX-TeXAtom-ORD"><mo>−</mo><mn>1</mn></mrow></msup></math></span></span><script type="math/tex" id="MathJax-Element-16">\rm 25000\ mileh^{-1} </script></span></p>
+</label>
+                                                <span class="fas fa-check"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text" style="font-weight:bold;">D</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p><span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-17-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mn>3.8</mn><mtext>&amp;#xA0;</mtext><mi mathvariant=&quot;normal&quot;>m</mi><mi mathvariant=&quot;normal&quot;>i</mi><mi mathvariant=&quot;normal&quot;>l</mi><mi mathvariant=&quot;normal&quot;>e</mi><msup><mi mathvariant=&quot;normal&quot;>s</mi><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>&amp;#x2212;</mo><mn>1</mn></mrow></msup></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-148" style="width: 5.786em; display: inline-block;"><span style="display: inline-block; position: relative; width: 4.738em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.232em, 1004.74em, 2.325em, -999.998em); top: -2.184em; left: 0em;"><span class="mrow" id="MathJax-Span-149"><span class="mn" id="MathJax-Span-150" style="font-family: MathJax_Main;">3.8</span><span class="mtext" id="MathJax-Span-151" style="font-family: MathJax_Main;">&nbsp;</span><span class="mi" id="MathJax-Span-152" style="font-family: MathJax_Main;">m</span><span class="mi" id="MathJax-Span-153" style="font-family: MathJax_Main;">i</span><span class="mi" id="MathJax-Span-154" style="font-family: MathJax_Main;">l</span><span class="mi" id="MathJax-Span-155" style="font-family: MathJax_Main;">e</span><span class="msubsup" id="MathJax-Span-156"><span style="display: inline-block; position: relative; width: 1.368em; height: 0px;"><span style="position: absolute; clip: rect(3.418em, 1000.37em, 4.146em, -999.998em); top: -4.005em; left: 0em;"><span class="mi" id="MathJax-Span-157" style="font-family: MathJax_Main;">s</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; top: -4.369em; left: 0.412em;"><span class="texatom" id="MathJax-Span-158"><span class="mrow" id="MathJax-Span-159"><span class="mo" id="MathJax-Span-160" style="font-size: 70.7%; font-family: MathJax_Main;">−</span><span class="mn" id="MathJax-Span-161" style="font-size: 70.7%; font-family: MathJax_Main;">1</span></span></span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span></span></span></span><span style="display: inline-block; width: 0px; height: 2.188em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.053em; border-left: 0px solid; width: 0px; height: 1.169em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>3.8</mn><mtext>&nbsp;</mtext><mi mathvariant="normal">m</mi><mi mathvariant="normal">i</mi><mi mathvariant="normal">l</mi><mi mathvariant="normal">e</mi><msup><mi mathvariant="normal">s</mi><mrow class="MJX-TeXAtom-ORD"><mo>−</mo><mn>1</mn></mrow></msup></math></span></span><script type="math/tex" id="MathJax-Element-17">\rm 3.8\ miles^{-1} </script></span></p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                    <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                                        <span style="color: black !important; font-weight: bold;">Solution:</span>
+                                        <br>
+                                        <span style="color: black !important;"><p>[ইসহাক স্যার: সংস্করণ- ২০২২, পৃষ্ঠা- ৪৩৯]</p>
+</span>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="row questionBlock">
+
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 10 </span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <p>সরল দোলন গতি ব্যবহার করে কোনটি নির্ণয় করা যায় না?</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row questionOptions">
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">A</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>অভিকর্ষজ ত্বরণ 'g' এর মান</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">B</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>সময়</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">C</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>পাহাড়ের উচ্চতা</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text" style="font-weight:bold;">D</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>অক্ষাংশ</p>
+</label>
+                                                <span class="fas fa-check"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                    <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                                        <span style="color: black !important; font-weight: bold;">Solution:</span>
+                                        <br>
+                                        <span style="color: black !important;"><p>[ইসহাক স্যার: সংস্করণ- ২০২২, পৃষ্ঠা- ৫৮২]</p>
+</span>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="row questionBlock">
+
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 11 </span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <p>Xe গ্যাসের অণু কোন বন্ধনের ফল?</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row questionOptions">
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">A</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>আয়নিক বন্ধন</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">B</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>ধাতব বন্ধন</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">C</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>ভ্যানডার ওয়ালস বন্ধন</p>
+</label>
+                                                <span class="fas fa-check"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text" style="font-weight:bold;">D</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>সমযোজী বন্ধন</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                    <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                                        <span style="color: black !important; font-weight: bold;">Solution:</span>
+                                        <br>
+                                        <span style="color: black !important;"><p>জেনে রাখো: নিষ্ক্রিয় গ্যাসের অণু ভ্যানডার ওয়ালস বন্ধনের ফল।<br>
+[ইসহাক স্যার: সংস্করণ- ২০২২, পৃষ্ঠা- ৪৮৭]</p>
+</span>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="row questionBlock">
+
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 12 </span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <p>কোনো সময় কোনো স্থানের একক আয়তনের বায়ুতে যে পরিমাণ জলীয় বাষ্প থাকে তাকে বলা হয় ঐ বায়ুর-</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row questionOptions">
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">A</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>পরম আর্দ্রতা</p>
+</label>
+                                                <span class="fas fa-check"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">B</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>শিশিরাঙ্ক</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">C</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>সম্পৃক্ত বাষ্প</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text" style="font-weight:bold;">D</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>আপেক্ষিক আর্দ্রতা</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                    <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                                        <span style="color: black !important; font-weight: bold;">Solution:</span>
+                                        <br>
+                                        <span style="color: black !important;"><p>[ইসহাক স্যার: সংস্করণ- ২০২২, পৃষ্ঠা- ৭৬৮]</p>
+</span>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="row questionBlock">
+
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 13 </span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <p>ঢালাই লোহার ইয়ং গুণাঙ্ক কত?</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row questionOptions">
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">A</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p><span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-18-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mn>20</mn><mo>&amp;#x00D7;</mo><msup><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mn>10</mn></mrow><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mn>10</mn></mrow></msup><mi mathvariant=&quot;normal&quot;>N</mi><msup><mi mathvariant=&quot;normal&quot;>m</mi><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>&amp;#x2212;</mo><mn>2</mn></mrow></msup></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-162" style="width: 8.062em; display: inline-block;"><span style="display: inline-block; position: relative; width: 6.605em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.186em, 1006.61em, 2.325em, -999.998em); top: -2.184em; left: 0em;"><span class="mrow" id="MathJax-Span-163"><span class="mn" id="MathJax-Span-164" style="font-family: MathJax_Main;">20</span><span class="mo" id="MathJax-Span-165" style="font-family: MathJax_Main; padding-left: 0.23em;">×</span><span class="msubsup" id="MathJax-Span-166" style="padding-left: 0.23em;"><span style="display: inline-block; position: relative; width: 1.778em; height: 0px;"><span style="position: absolute; clip: rect(3.19em, 1000.96em, 4.146em, -999.998em); top: -4.005em; left: 0em;"><span class="texatom" id="MathJax-Span-167"><span class="mrow" id="MathJax-Span-168"><span class="mn" id="MathJax-Span-169" style="font-family: MathJax_Main;">10</span></span></span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; top: -4.415em; left: 1.004em;"><span class="texatom" id="MathJax-Span-170"><span class="mrow" id="MathJax-Span-171"><span class="mn" id="MathJax-Span-172" style="font-size: 70.7%; font-family: MathJax_Main;">10</span></span></span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span></span></span><span class="mi" id="MathJax-Span-173" style="font-family: MathJax_Main;">N</span><span class="msubsup" id="MathJax-Span-174"><span style="display: inline-block; position: relative; width: 1.824em; height: 0px;"><span style="position: absolute; clip: rect(3.418em, 1000.82em, 4.146em, -999.998em); top: -4.005em; left: 0em;"><span class="mi" id="MathJax-Span-175" style="font-family: MathJax_Main;">m</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; top: -4.369em; left: 0.822em;"><span class="texatom" id="MathJax-Span-176"><span class="mrow" id="MathJax-Span-177"><span class="mo" id="MathJax-Span-178" style="font-size: 70.7%; font-family: MathJax_Main;">−</span><span class="mn" id="MathJax-Span-179" style="font-size: 70.7%; font-family: MathJax_Main;">2</span></span></span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span></span></span></span><span style="display: inline-block; width: 0px; height: 2.188em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.053em; border-left: 0px solid; width: 0px; height: 1.169em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>20</mn><mo>×</mo><msup><mrow class="MJX-TeXAtom-ORD"><mn>10</mn></mrow><mrow class="MJX-TeXAtom-ORD"><mn>10</mn></mrow></msup><mi mathvariant="normal">N</mi><msup><mi mathvariant="normal">m</mi><mrow class="MJX-TeXAtom-ORD"><mo>−</mo><mn>2</mn></mrow></msup></math></span></span><script type="math/tex" id="MathJax-Element-18">\rm 20\times{10}^{10}Nm^{-2} </script></span></p>
+</label>
+                                                <span class="fas fa-check"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">B</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p><span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-19-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mn>20</mn><mo>&amp;#x00D7;</mo><msup><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mn>10</mn></mrow><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mn>20</mn></mrow></msup><mi mathvariant=&quot;normal&quot;>N</mi><msup><mi mathvariant=&quot;normal&quot;>m</mi><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>&amp;#x2212;</mo><mn>2</mn></mrow></msup></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-180" style="width: 8.062em; display: inline-block;"><span style="display: inline-block; position: relative; width: 6.605em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.186em, 1006.61em, 2.325em, -999.998em); top: -2.184em; left: 0em;"><span class="mrow" id="MathJax-Span-181"><span class="mn" id="MathJax-Span-182" style="font-family: MathJax_Main;">20</span><span class="mo" id="MathJax-Span-183" style="font-family: MathJax_Main; padding-left: 0.23em;">×</span><span class="msubsup" id="MathJax-Span-184" style="padding-left: 0.23em;"><span style="display: inline-block; position: relative; width: 1.778em; height: 0px;"><span style="position: absolute; clip: rect(3.19em, 1000.96em, 4.146em, -999.998em); top: -4.005em; left: 0em;"><span class="texatom" id="MathJax-Span-185"><span class="mrow" id="MathJax-Span-186"><span class="mn" id="MathJax-Span-187" style="font-family: MathJax_Main;">10</span></span></span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; top: -4.415em; left: 1.004em;"><span class="texatom" id="MathJax-Span-188"><span class="mrow" id="MathJax-Span-189"><span class="mn" id="MathJax-Span-190" style="font-size: 70.7%; font-family: MathJax_Main;">20</span></span></span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span></span></span><span class="mi" id="MathJax-Span-191" style="font-family: MathJax_Main;">N</span><span class="msubsup" id="MathJax-Span-192"><span style="display: inline-block; position: relative; width: 1.824em; height: 0px;"><span style="position: absolute; clip: rect(3.418em, 1000.82em, 4.146em, -999.998em); top: -4.005em; left: 0em;"><span class="mi" id="MathJax-Span-193" style="font-family: MathJax_Main;">m</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; top: -4.369em; left: 0.822em;"><span class="texatom" id="MathJax-Span-194"><span class="mrow" id="MathJax-Span-195"><span class="mo" id="MathJax-Span-196" style="font-size: 70.7%; font-family: MathJax_Main;">−</span><span class="mn" id="MathJax-Span-197" style="font-size: 70.7%; font-family: MathJax_Main;">2</span></span></span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span></span></span></span><span style="display: inline-block; width: 0px; height: 2.188em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.053em; border-left: 0px solid; width: 0px; height: 1.169em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>20</mn><mo>×</mo><msup><mrow class="MJX-TeXAtom-ORD"><mn>10</mn></mrow><mrow class="MJX-TeXAtom-ORD"><mn>20</mn></mrow></msup><mi mathvariant="normal">N</mi><msup><mi mathvariant="normal">m</mi><mrow class="MJX-TeXAtom-ORD"><mo>−</mo><mn>2</mn></mrow></msup></math></span></span><script type="math/tex" id="MathJax-Element-19">\rm 20\times{10}^{20}Nm^{-2} </script></span></p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">C</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p><span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-20-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mn>20</mn><mo>&amp;#x00D7;</mo><msup><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mn>10</mn></mrow><mn>2</mn></msup><mi mathvariant=&quot;normal&quot;>N</mi><msup><mi mathvariant=&quot;normal&quot;>m</mi><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>&amp;#x2212;</mo><mn>2</mn></mrow></msup></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-198" style="width: 7.607em; display: inline-block;"><span style="display: inline-block; position: relative; width: 6.241em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.186em, 1006.24em, 2.325em, -999.998em); top: -2.184em; left: 0em;"><span class="mrow" id="MathJax-Span-199"><span class="mn" id="MathJax-Span-200" style="font-family: MathJax_Main;">20</span><span class="mo" id="MathJax-Span-201" style="font-family: MathJax_Main; padding-left: 0.23em;">×</span><span class="msubsup" id="MathJax-Span-202" style="padding-left: 0.23em;"><span style="display: inline-block; position: relative; width: 1.414em; height: 0px;"><span style="position: absolute; clip: rect(3.19em, 1000.96em, 4.146em, -999.998em); top: -4.005em; left: 0em;"><span class="texatom" id="MathJax-Span-203"><span class="mrow" id="MathJax-Span-204"><span class="mn" id="MathJax-Span-205" style="font-family: MathJax_Main;">10</span></span></span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; top: -4.415em; left: 1.004em;"><span class="mn" id="MathJax-Span-206" style="font-size: 70.7%; font-family: MathJax_Main;">2</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span></span></span><span class="mi" id="MathJax-Span-207" style="font-family: MathJax_Main;">N</span><span class="msubsup" id="MathJax-Span-208"><span style="display: inline-block; position: relative; width: 1.824em; height: 0px;"><span style="position: absolute; clip: rect(3.418em, 1000.82em, 4.146em, -999.998em); top: -4.005em; left: 0em;"><span class="mi" id="MathJax-Span-209" style="font-family: MathJax_Main;">m</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; top: -4.369em; left: 0.822em;"><span class="texatom" id="MathJax-Span-210"><span class="mrow" id="MathJax-Span-211"><span class="mo" id="MathJax-Span-212" style="font-size: 70.7%; font-family: MathJax_Main;">−</span><span class="mn" id="MathJax-Span-213" style="font-size: 70.7%; font-family: MathJax_Main;">2</span></span></span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span></span></span></span><span style="display: inline-block; width: 0px; height: 2.188em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.053em; border-left: 0px solid; width: 0px; height: 1.169em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>20</mn><mo>×</mo><msup><mrow class="MJX-TeXAtom-ORD"><mn>10</mn></mrow><mn>2</mn></msup><mi mathvariant="normal">N</mi><msup><mi mathvariant="normal">m</mi><mrow class="MJX-TeXAtom-ORD"><mo>−</mo><mn>2</mn></mrow></msup></math></span></span><script type="math/tex" id="MathJax-Element-20">\rm 20\times{10}^2Nm^{-2} </script></span></p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text" style="font-weight:bold;">D</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p><span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-21-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mn>20</mn><mo>&amp;#x00D7;</mo><msup><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mn>10</mn></mrow><mn>8</mn></msup><mi mathvariant=&quot;normal&quot;>N</mi><msup><mi mathvariant=&quot;normal&quot;>m</mi><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>&amp;#x2212;</mo><mn>2</mn></mrow></msup></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-214" style="width: 7.607em; display: inline-block;"><span style="display: inline-block; position: relative; width: 6.241em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.186em, 1006.24em, 2.325em, -999.998em); top: -2.184em; left: 0em;"><span class="mrow" id="MathJax-Span-215"><span class="mn" id="MathJax-Span-216" style="font-family: MathJax_Main;">20</span><span class="mo" id="MathJax-Span-217" style="font-family: MathJax_Main; padding-left: 0.23em;">×</span><span class="msubsup" id="MathJax-Span-218" style="padding-left: 0.23em;"><span style="display: inline-block; position: relative; width: 1.414em; height: 0px;"><span style="position: absolute; clip: rect(3.19em, 1000.96em, 4.146em, -999.998em); top: -4.005em; left: 0em;"><span class="texatom" id="MathJax-Span-219"><span class="mrow" id="MathJax-Span-220"><span class="mn" id="MathJax-Span-221" style="font-family: MathJax_Main;">10</span></span></span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; top: -4.415em; left: 1.004em;"><span class="mn" id="MathJax-Span-222" style="font-size: 70.7%; font-family: MathJax_Main;">8</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span></span></span><span class="mi" id="MathJax-Span-223" style="font-family: MathJax_Main;">N</span><span class="msubsup" id="MathJax-Span-224"><span style="display: inline-block; position: relative; width: 1.824em; height: 0px;"><span style="position: absolute; clip: rect(3.418em, 1000.82em, 4.146em, -999.998em); top: -4.005em; left: 0em;"><span class="mi" id="MathJax-Span-225" style="font-family: MathJax_Main;">m</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; top: -4.369em; left: 0.822em;"><span class="texatom" id="MathJax-Span-226"><span class="mrow" id="MathJax-Span-227"><span class="mo" id="MathJax-Span-228" style="font-size: 70.7%; font-family: MathJax_Main;">−</span><span class="mn" id="MathJax-Span-229" style="font-size: 70.7%; font-family: MathJax_Main;">2</span></span></span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span></span></span></span><span style="display: inline-block; width: 0px; height: 2.188em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.053em; border-left: 0px solid; width: 0px; height: 1.169em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>20</mn><mo>×</mo><msup><mrow class="MJX-TeXAtom-ORD"><mn>10</mn></mrow><mn>8</mn></msup><mi mathvariant="normal">N</mi><msup><mi mathvariant="normal">m</mi><mrow class="MJX-TeXAtom-ORD"><mo>−</mo><mn>2</mn></mrow></msup></math></span></span><script type="math/tex" id="MathJax-Element-21">\rm 20\times{10}^8Nm^{-2} </script></span></p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                    <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                                        <span style="color: black !important; font-weight: bold;">Solution:</span>
+                                        <br>
+                                        <span style="color: black !important;"><p>[ইসহাক স্যার: সংস্করণ- ২০২২, পৃষ্ঠা- ৪৯৮]</p>
+</span>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="row questionBlock">
+
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 14 </span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <p>পৃথিবীর কত ডিগ্রী অক্ষাংশে অভিকর্ষজ ত্বরণের মানকে আদর্শ ধরা হয়?&nbsp;</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row questionOptions">
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">A</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>90°</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">B</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>45°</p>
+</label>
+                                                <span class="fas fa-check"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">C</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>0°</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text" style="font-weight:bold;">D</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>180°</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                    <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                                        <span style="color: black !important; font-weight: bold;">Solution:</span>
+                                        <br>
+                                        <span style="color: black !important;"><p>[ইসহাক স্যার: সংস্করণ- ২০২২, পৃষ্ঠা- ৪১৯]</p>
+</span>
+                                    </div>
+                            </div>
+                        </div>
+                        
+                        <div class="row questionBlock">
+
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 16 </span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <p>STP তে বায়ুর ঘনত্ব কত?</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row questionOptions">
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">A</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p><span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-28-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mn>1.013</mn><mo>&amp;#x00D7;</mo><msup><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mn>10</mn></mrow><mn>5</mn></msup><mtext>&amp;#xA0;</mtext><mi mathvariant=&quot;normal&quot;>k</mi><mi mathvariant=&quot;normal&quot;>g</mi><msup><mi mathvariant=&quot;normal&quot;>m</mi><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>&amp;#x2212;</mo><mn>3</mn></mrow></msup></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-272" style="width: 9.793em; display: inline-block;"><span style="display: inline-block; position: relative; width: 8.017em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.186em, 1008.02em, 2.552em, -999.998em); top: -2.184em; left: 0em;"><span class="mrow" id="MathJax-Span-273"><span class="mn" id="MathJax-Span-274" style="font-family: MathJax_Main;">1.013</span><span class="mo" id="MathJax-Span-275" style="font-family: MathJax_Main; padding-left: 0.23em;">×</span><span class="msubsup" id="MathJax-Span-276" style="padding-left: 0.23em;"><span style="display: inline-block; position: relative; width: 1.414em; height: 0px;"><span style="position: absolute; clip: rect(3.19em, 1000.96em, 4.146em, -999.998em); top: -4.005em; left: 0em;"><span class="texatom" id="MathJax-Span-277"><span class="mrow" id="MathJax-Span-278"><span class="mn" id="MathJax-Span-279" style="font-family: MathJax_Main;">10</span></span></span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; top: -4.415em; left: 1.004em;"><span class="mn" id="MathJax-Span-280" style="font-size: 70.7%; font-family: MathJax_Main;">5</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span></span></span><span class="mtext" id="MathJax-Span-281" style="font-family: MathJax_Main;">&nbsp;</span><span class="mi" id="MathJax-Span-282" style="font-family: MathJax_Main;">k</span><span class="mi" id="MathJax-Span-283" style="font-family: MathJax_Main;">g</span><span class="msubsup" id="MathJax-Span-284"><span style="display: inline-block; position: relative; width: 1.824em; height: 0px;"><span style="position: absolute; clip: rect(3.418em, 1000.82em, 4.146em, -999.998em); top: -4.005em; left: 0em;"><span class="mi" id="MathJax-Span-285" style="font-family: MathJax_Main;">m</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; top: -4.369em; left: 0.822em;"><span class="texatom" id="MathJax-Span-286"><span class="mrow" id="MathJax-Span-287"><span class="mo" id="MathJax-Span-288" style="font-size: 70.7%; font-family: MathJax_Main;">−</span><span class="mn" id="MathJax-Span-289" style="font-size: 70.7%; font-family: MathJax_Main;">3</span></span></span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span></span></span></span><span style="display: inline-block; width: 0px; height: 2.188em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.331em; border-left: 0px solid; width: 0px; height: 1.392em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1.013</mn><mo>×</mo><msup><mrow class="MJX-TeXAtom-ORD"><mn>10</mn></mrow><mn>5</mn></msup><mtext>&nbsp;</mtext><mi mathvariant="normal">k</mi><mi mathvariant="normal">g</mi><msup><mi mathvariant="normal">m</mi><mrow class="MJX-TeXAtom-ORD"><mo>−</mo><mn>3</mn></mrow></msup></math></span></span><script type="math/tex" id="MathJax-Element-28">\rm 1.013\times{10}^5\ kgm^{-3} </script></span></p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">B</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p><span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-29-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mn>1.013</mn><mtext>&amp;#xA0;</mtext><mi mathvariant=&quot;normal&quot;>k</mi><mi mathvariant=&quot;normal&quot;>g</mi><msup><mi mathvariant=&quot;normal&quot;>m</mi><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>&amp;#x2212;</mo><mn>3</mn></mrow></msup></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-290" style="width: 6.56em; display: inline-block;"><span style="display: inline-block; position: relative; width: 5.376em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.232em, 1005.38em, 2.552em, -999.998em); top: -2.184em; left: 0em;"><span class="mrow" id="MathJax-Span-291"><span class="mn" id="MathJax-Span-292" style="font-family: MathJax_Main;">1.013</span><span class="mtext" id="MathJax-Span-293" style="font-family: MathJax_Main;">&nbsp;</span><span class="mi" id="MathJax-Span-294" style="font-family: MathJax_Main;">k</span><span class="mi" id="MathJax-Span-295" style="font-family: MathJax_Main;">g</span><span class="msubsup" id="MathJax-Span-296"><span style="display: inline-block; position: relative; width: 1.824em; height: 0px;"><span style="position: absolute; clip: rect(3.418em, 1000.82em, 4.146em, -999.998em); top: -4.005em; left: 0em;"><span class="mi" id="MathJax-Span-297" style="font-family: MathJax_Main;">m</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; top: -4.369em; left: 0.822em;"><span class="texatom" id="MathJax-Span-298"><span class="mrow" id="MathJax-Span-299"><span class="mo" id="MathJax-Span-300" style="font-size: 70.7%; font-family: MathJax_Main;">−</span><span class="mn" id="MathJax-Span-301" style="font-size: 70.7%; font-family: MathJax_Main;">3</span></span></span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span></span></span></span><span style="display: inline-block; width: 0px; height: 2.188em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.331em; border-left: 0px solid; width: 0px; height: 1.392em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1.013</mn><mtext>&nbsp;</mtext><mi mathvariant="normal">k</mi><mi mathvariant="normal">g</mi><msup><mi mathvariant="normal">m</mi><mrow class="MJX-TeXAtom-ORD"><mo>−</mo><mn>3</mn></mrow></msup></math></span></span><script type="math/tex" id="MathJax-Element-29">\rm 1.013\ kgm^{-3} </script></span></p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">C</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p><span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-30-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mn>1.293</mn><mtext>&amp;#xA0;</mtext><mi mathvariant=&quot;normal&quot;>k</mi><mi mathvariant=&quot;normal&quot;>g</mi><msup><mi mathvariant=&quot;normal&quot;>m</mi><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>&amp;#x2212;</mo><mn>3</mn></mrow></msup></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-302" style="width: 6.56em; display: inline-block;"><span style="display: inline-block; position: relative; width: 5.376em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.232em, 1005.38em, 2.552em, -999.998em); top: -2.184em; left: 0em;"><span class="mrow" id="MathJax-Span-303"><span class="mn" id="MathJax-Span-304" style="font-family: MathJax_Main;">1.293</span><span class="mtext" id="MathJax-Span-305" style="font-family: MathJax_Main;">&nbsp;</span><span class="mi" id="MathJax-Span-306" style="font-family: MathJax_Main;">k</span><span class="mi" id="MathJax-Span-307" style="font-family: MathJax_Main;">g</span><span class="msubsup" id="MathJax-Span-308"><span style="display: inline-block; position: relative; width: 1.824em; height: 0px;"><span style="position: absolute; clip: rect(3.418em, 1000.82em, 4.146em, -999.998em); top: -4.005em; left: 0em;"><span class="mi" id="MathJax-Span-309" style="font-family: MathJax_Main;">m</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; top: -4.369em; left: 0.822em;"><span class="texatom" id="MathJax-Span-310"><span class="mrow" id="MathJax-Span-311"><span class="mo" id="MathJax-Span-312" style="font-size: 70.7%; font-family: MathJax_Main;">−</span><span class="mn" id="MathJax-Span-313" style="font-size: 70.7%; font-family: MathJax_Main;">3</span></span></span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span></span></span></span><span style="display: inline-block; width: 0px; height: 2.188em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.331em; border-left: 0px solid; width: 0px; height: 1.392em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1.293</mn><mtext>&nbsp;</mtext><mi mathvariant="normal">k</mi><mi mathvariant="normal">g</mi><msup><mi mathvariant="normal">m</mi><mrow class="MJX-TeXAtom-ORD"><mo>−</mo><mn>3</mn></mrow></msup></math></span></span><script type="math/tex" id="MathJax-Element-30">\rm 1.293\ kgm^{-3} </script></span></p>
+</label>
+                                                <span class="fas fa-check"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text" style="font-weight:bold;">D</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p><span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-31-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mn>1.293</mn><mtext>&amp;#xA0;</mtext><mi mathvariant=&quot;normal&quot;>N</mi><msup><mi mathvariant=&quot;normal&quot;>m</mi><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>&amp;#x2212;</mo><mn>2</mn></mrow></msup></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-314" style="width: 6.241em; display: inline-block;"><span style="display: inline-block; position: relative; width: 5.102em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.232em, 1005.1em, 2.325em, -999.998em); top: -2.184em; left: 0em;"><span class="mrow" id="MathJax-Span-315"><span class="mn" id="MathJax-Span-316" style="font-family: MathJax_Main;">1.293</span><span class="mtext" id="MathJax-Span-317" style="font-family: MathJax_Main;">&nbsp;</span><span class="mi" id="MathJax-Span-318" style="font-family: MathJax_Main;">N</span><span class="msubsup" id="MathJax-Span-319"><span style="display: inline-block; position: relative; width: 1.824em; height: 0px;"><span style="position: absolute; clip: rect(3.418em, 1000.82em, 4.146em, -999.998em); top: -4.005em; left: 0em;"><span class="mi" id="MathJax-Span-320" style="font-family: MathJax_Main;">m</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; top: -4.369em; left: 0.822em;"><span class="texatom" id="MathJax-Span-321"><span class="mrow" id="MathJax-Span-322"><span class="mo" id="MathJax-Span-323" style="font-size: 70.7%; font-family: MathJax_Main;">−</span><span class="mn" id="MathJax-Span-324" style="font-size: 70.7%; font-family: MathJax_Main;">2</span></span></span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span></span></span></span><span style="display: inline-block; width: 0px; height: 2.188em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.053em; border-left: 0px solid; width: 0px; height: 1.169em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1.293</mn><mtext>&nbsp;</mtext><mi mathvariant="normal">N</mi><msup><mi mathvariant="normal">m</mi><mrow class="MJX-TeXAtom-ORD"><mo>−</mo><mn>2</mn></mrow></msup></math></span></span><script type="math/tex" id="MathJax-Element-31">\rm 1.293\ Nm^{-2}</script></span></p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                    <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                                        <span style="color: black !important; font-weight: bold;">Solution:</span>
+                                        <br>
+                                        <span style="color: black !important;"><p>জেনে রাখো: STP-তে বায়ুর ঘনত্ব - <span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-32-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mn>1.293</mn><mtext>&amp;#xA0;</mtext><mi mathvariant=&quot;normal&quot;>k</mi><mi mathvariant=&quot;normal&quot;>g</mi><msup><mi mathvariant=&quot;normal&quot;>m</mi><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>&amp;#x2212;</mo><mn>3</mn></mrow></msup></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-325" style="width: 5.371em; display: inline-block;"><span style="display: inline-block; position: relative; width: 4.387em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.068em, 1004.39em, 2.338em, -999.998em); top: -2.006em; left: 0em;"><span class="mrow" id="MathJax-Span-326"><span class="mn" id="MathJax-Span-327" style="font-family: MathJax_Main;">1.293</span><span class="mtext" id="MathJax-Span-328" style="font-family: MathJax_Main;">&nbsp;</span><span class="mi" id="MathJax-Span-329" style="font-family: MathJax_Main;">k</span><span class="mi" id="MathJax-Span-330" style="font-family: MathJax_Main;">g</span><span class="msubsup" id="MathJax-Span-331"><span style="display: inline-block; position: relative; width: 1.805em; height: 0px;"><span style="position: absolute; clip: rect(3.445em, 1000.82em, 4.141em, -999.998em); top: -4.014em; left: 0em;"><span class="mi" id="MathJax-Span-332" style="font-family: MathJax_Main;">m</span><span style="display: inline-block; width: 0px; height: 4.018em;"></span></span><span style="position: absolute; top: -4.383em; left: 0.822em;"><span class="texatom" id="MathJax-Span-333"><span class="mrow" id="MathJax-Span-334"><span class="mo" id="MathJax-Span-335" style="font-size: 70.7%; font-family: MathJax_Main;">−</span><span class="mn" id="MathJax-Span-336" style="font-size: 70.7%; font-family: MathJax_Main;">3</span></span></span><span style="display: inline-block; width: 0px; height: 4.018em;"></span></span></span></span></span><span style="display: inline-block; width: 0px; height: 2.01em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.297em; border-left: 0px solid; width: 0px; height: 1.353em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1.293</mn><mtext>&nbsp;</mtext><mi mathvariant="normal">k</mi><mi mathvariant="normal">g</mi><msup><mi mathvariant="normal">m</mi><mrow class="MJX-TeXAtom-ORD"><mo>−</mo><mn>3</mn></mrow></msup></math></span></span><script type="math/tex" id="MathJax-Element-32">\rm 1.293\ kgm^{-3}</script></span><br>
+STP-তে বায়ুর চাপ - <span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-33-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mn>1.013</mn><mo>&amp;#x00D7;</mo><msup><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mn>10</mn></mrow><mn>5</mn></msup><mtext>&amp;#xA0;</mtext><mi mathvariant=&quot;normal&quot;>N</mi><msup><mi mathvariant=&quot;normal&quot;>m</mi><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>&amp;#x2212;</mo><mn>2</mn></mrow></msup></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-337" style="width: 7.707em; display: inline-block;"><span style="display: inline-block; position: relative; width: 6.314em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.027em, 1006.31em, 2.174em, -999.998em); top: -2.006em; left: 0em;"><span class="mrow" id="MathJax-Span-338"><span class="mn" id="MathJax-Span-339" style="font-family: MathJax_Main;">1.013</span><span class="mo" id="MathJax-Span-340" style="font-family: MathJax_Main; padding-left: 0.207em;">×</span><span class="msubsup" id="MathJax-Span-341" style="padding-left: 0.207em;"><span style="display: inline-block; position: relative; width: 1.436em; height: 0px;"><span style="position: absolute; clip: rect(3.24em, 1000.95em, 4.182em, -999.998em); top: -4.014em; left: 0em;"><span class="texatom" id="MathJax-Span-342"><span class="mrow" id="MathJax-Span-343"><span class="mn" id="MathJax-Span-344" style="font-family: MathJax_Main;">10</span></span></span><span style="display: inline-block; width: 0px; height: 4.018em;"></span></span><span style="position: absolute; top: -4.424em; left: 0.986em;"><span class="mn" id="MathJax-Span-345" style="font-size: 70.7%; font-family: MathJax_Main;">5</span><span style="display: inline-block; width: 0px; height: 4.018em;"></span></span></span></span><span class="mtext" id="MathJax-Span-346" style="font-family: MathJax_Main;">&nbsp;</span><span class="mi" id="MathJax-Span-347" style="font-family: MathJax_Main;">N</span><span class="msubsup" id="MathJax-Span-348"><span style="display: inline-block; position: relative; width: 1.805em; height: 0px;"><span style="position: absolute; clip: rect(3.445em, 1000.82em, 4.141em, -999.998em); top: -4.014em; left: 0em;"><span class="mi" id="MathJax-Span-349" style="font-family: MathJax_Main;">m</span><span style="display: inline-block; width: 0px; height: 4.018em;"></span></span><span style="position: absolute; top: -4.383em; left: 0.822em;"><span class="texatom" id="MathJax-Span-350"><span class="mrow" id="MathJax-Span-351"><span class="mo" id="MathJax-Span-352" style="font-size: 70.7%; font-family: MathJax_Main;">−</span><span class="mn" id="MathJax-Span-353" style="font-size: 70.7%; font-family: MathJax_Main;">2</span></span></span><span style="display: inline-block; width: 0px; height: 4.018em;"></span></span></span></span></span><span style="display: inline-block; width: 0px; height: 2.01em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.098em; border-left: 0px solid; width: 0px; height: 1.203em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1.013</mn><mo>×</mo><msup><mrow class="MJX-TeXAtom-ORD"><mn>10</mn></mrow><mn>5</mn></msup><mtext>&nbsp;</mtext><mi mathvariant="normal">N</mi><msup><mi mathvariant="normal">m</mi><mrow class="MJX-TeXAtom-ORD"><mo>−</mo><mn>2</mn></mrow></msup></math></span></span><script type="math/tex" id="MathJax-Element-33">\rm 1.013\times{10}^5\ Nm^{-2}</script></span><br>
+[ইসহাক স্যার: সংস্করণ- ২০২২, পৃষ্ঠা- ৭৪৫]</p>
+</span>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="row questionBlock">
+
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 17 </span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <p>একটি সরল ছন্দিত গতিসম্পন্ন কণার সর্বোচ্চ বেগ <span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-34-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mn>0.03</mn><mtext>&amp;#xA0;</mtext><mi mathvariant=&quot;normal&quot;>m</mi><msup><mi mathvariant=&quot;normal&quot;>s</mi><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>&amp;#x2212;</mo><mn>1</mn></mrow></msup></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-354" style="width: 5.181em; display: inline-block;"><span style="display: inline-block; position: relative; width: 4.249em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.306em, 1004.25em, 2.386em, -999.998em); top: -2.234em; left: 0em;"><span class="mrow" id="MathJax-Span-355"><span class="mn" id="MathJax-Span-356" style="font-family: MathJax_Main;">0.03</span><span class="mtext" id="MathJax-Span-357" style="font-family: MathJax_Main;">&nbsp;</span><span class="mi" id="MathJax-Span-358" style="font-family: MathJax_Main;">m</span><span class="msubsup" id="MathJax-Span-359"><span style="display: inline-block; position: relative; width: 1.38em; height: 0px;"><span style="position: absolute; clip: rect(3.43em, 1000.37em, 4.1em, -999.998em); top: -3.985em; left: 0em;"><span class="mi" id="MathJax-Span-360" style="font-family: MathJax_Main;">s</span><span style="display: inline-block; width: 0px; height: 3.988em;"></span></span><span style="position: absolute; top: -4.357em; left: 0.412em;"><span class="texatom" id="MathJax-Span-361"><span class="mrow" id="MathJax-Span-362"><span class="mo" id="MathJax-Span-363" style="font-size: 70.7%; font-family: MathJax_Main;">−</span><span class="mn" id="MathJax-Span-364" style="font-size: 70.7%; font-family: MathJax_Main;">1</span></span></span><span style="display: inline-block; width: 0px; height: 3.988em;"></span></span></span></span></span><span style="display: inline-block; width: 0px; height: 2.237em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.089em; border-left: 0px solid; width: 0px; height: 1.139em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>0.03</mn><mtext>&nbsp;</mtext><mi mathvariant="normal">m</mi><msup><mi mathvariant="normal">s</mi><mrow class="MJX-TeXAtom-ORD"><mo>−</mo><mn>1</mn></mrow></msup></math></span></span><script type="math/tex" id="MathJax-Element-34">\rm 0.03\ ms^{-1} </script></span>। কণাটির বিস্তার <span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-35-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mn>0.006</mn><mtext>&amp;#xA0;</mtext><mi mathvariant=&quot;normal&quot;>m</mi></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-365" style="width: 4.1em; display: inline-block;"><span style="display: inline-block; position: relative; width: 3.355em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.455em, 1003.36em, 2.386em, -999.998em); top: -2.234em; left: 0em;"><span class="mrow" id="MathJax-Span-366"><span class="mn" id="MathJax-Span-367" style="font-family: MathJax_Main;">0.006</span><span class="mtext" id="MathJax-Span-368" style="font-family: MathJax_Main;">&nbsp;</span><span class="mi" id="MathJax-Span-369" style="font-family: MathJax_Main;">m</span></span><span style="display: inline-block; width: 0px; height: 2.237em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.089em; border-left: 0px solid; width: 0px; height: 0.911em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>0.006</mn><mtext>&nbsp;</mtext><mi mathvariant="normal">m</mi></math></span></span><script type="math/tex" id="MathJax-Element-35">\rm 0.006\ m </script></span>&nbsp;হলে পর্যায়কাল কত হবে?</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row questionOptions">
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">A</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>12.56 sec</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">B</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>56.12 sec</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">C</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>1.256 sec</p>
+</label>
+                                                <span class="fas fa-check"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text" style="font-weight:bold;">D</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>5.126 sec</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                    <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                                        <span style="color: black !important; font-weight: bold;">Solution:</span>
+                                        <br>
+                                        <span style="color: black !important;"><p><span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-36-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><msub><mi mathvariant=&quot;normal&quot;>v</mi><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mi mathvariant=&quot;normal&quot;>m</mi><mi mathvariant=&quot;normal&quot;>a</mi><mi mathvariant=&quot;normal&quot;>x</mi></mrow></msub><mo>=</mo><mi>&amp;#x03C9;</mi><mi mathvariant=&quot;normal&quot;>A</mi><mo>&amp;#x2234;</mo><mi>&amp;#x03C9;</mi><mo>=</mo><mfrac><msub><mi mathvariant=&quot;normal&quot;>v</mi><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mi mathvariant=&quot;normal&quot;>m</mi><mi mathvariant=&quot;normal&quot;>a</mi><mi mathvariant=&quot;normal&quot;>x</mi></mrow></msub><mi mathvariant=&quot;normal&quot;>A</mi></mfrac><mo>=</mo><mfrac><mn>0.03</mn><mn>0.006</mn></mfrac><mo>=</mo><mn>5</mn><mtext>&amp;#xA0;</mtext><mi mathvariant=&quot;normal&quot;>r</mi><mi mathvariant=&quot;normal&quot;>a</mi><mi mathvariant=&quot;normal&quot;>d</mi><msup><mi mathvariant=&quot;normal&quot;>s</mi><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>&amp;#x2212;</mo><mn>1</mn></mrow></msup></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-370" style="width: 17.871em; display: inline-block;"><span style="display: inline-block; position: relative; width: 14.633em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.232em, 1014.63em, 2.748em, -999.998em); top: -2.211em; left: 0em;"><span class="mrow" id="MathJax-Span-371"><span class="msubsup" id="MathJax-Span-372"><span style="display: inline-block; position: relative; width: 1.928em; height: 0px;"><span style="position: absolute; clip: rect(3.445em, 1000.49em, 4.141em, -999.998em); top: -4.014em; left: 0em;"><span class="mi" id="MathJax-Span-373" style="font-family: MathJax_Main;">v</span><span style="display: inline-block; width: 0px; height: 4.018em;"></span></span><span style="position: absolute; top: -3.85em; left: 0.535em;"><span class="texatom" id="MathJax-Span-374"><span class="mrow" id="MathJax-Span-375"><span class="mi" id="MathJax-Span-376" style="font-size: 70.7%; font-family: MathJax_Main;">m</span><span class="mi" id="MathJax-Span-377" style="font-size: 70.7%; font-family: MathJax_Main;">a</span><span class="mi" id="MathJax-Span-378" style="font-size: 70.7%; font-family: MathJax_Main;">x</span></span></span><span style="display: inline-block; width: 0px; height: 4.018em;"></span></span></span></span><span class="mo" id="MathJax-Span-379" style="font-family: MathJax_Main; padding-left: 0.289em;">=</span><span class="mi" id="MathJax-Span-380" style="font-family: MathJax_Math-italic; padding-left: 0.289em;">ω</span><span class="mi" id="MathJax-Span-381" style="font-family: MathJax_Main;">A</span><span class="mo" id="MathJax-Span-382" style="font-family: MathJax_AMS; padding-left: 0.289em;">∴</span><span class="mi" id="MathJax-Span-383" style="font-family: MathJax_Math-italic; padding-left: 0.289em;">ω</span><span class="mo" id="MathJax-Span-384" style="font-family: MathJax_Main; padding-left: 0.289em;">=</span><span class="mfrac" id="MathJax-Span-385" style="padding-left: 0.289em;"><span style="display: inline-block; position: relative; width: 1.477em; height: 0px; margin-right: 0.125em; margin-left: 0.125em;"><span style="position: absolute; clip: rect(3.609em, 1001.36em, 4.264em, -999.998em); top: -4.506em; left: 50%; margin-left: -0.695em;"><span class="msubsup" id="MathJax-Span-386"><span style="display: inline-block; position: relative; width: 1.355em; height: 0px;"><span style="position: absolute; clip: rect(3.609em, 1000.37em, 4.141em, -999.998em); top: -4.014em; left: 0em;"><span class="mi" id="MathJax-Span-387" style="font-size: 70.7%; font-family: MathJax_Main;">v</span><span style="display: inline-block; width: 0px; height: 4.018em;"></span></span><span style="position: absolute; top: -3.891em; left: 0.371em;"><span class="texatom" id="MathJax-Span-388"><span class="mrow" id="MathJax-Span-389"><span class="mi" id="MathJax-Span-390" style="font-size: 50%; font-family: MathJax_Main;">m</span><span class="mi" id="MathJax-Span-391" style="font-size: 50%; font-family: MathJax_Main;">a</span><span class="mi" id="MathJax-Span-392" style="font-size: 50%; font-family: MathJax_Main;">x</span></span></span><span style="display: inline-block; width: 0px; height: 4.018em;"></span></span></span></span><span style="display: inline-block; width: 0px; height: 4.018em;"></span></span><span style="position: absolute; clip: rect(3.404em, 1000.49em, 4.141em, -999.998em); top: -3.605em; left: 50%; margin-left: -0.244em;"><span class="mi" id="MathJax-Span-393" style="font-size: 70.7%; font-family: MathJax_Main;">A</span><span style="display: inline-block; width: 0px; height: 4.018em;"></span></span><span style="position: absolute; clip: rect(0.904em, 1001.48em, 1.191em, -999.998em); top: -1.268em; left: 0em;"><span style="display: inline-block; overflow: hidden; vertical-align: 0em; border-top: 1.5px solid; width: 1.477em; height: 0px;"></span><span style="display: inline-block; width: 0px; height: 1.068em;"></span></span></span></span><span class="mo" id="MathJax-Span-394" style="font-family: MathJax_Main; padding-left: 0.289em;">=</span><span class="mfrac" id="MathJax-Span-395" style="padding-left: 0.289em;"><span style="display: inline-block; position: relative; width: 1.723em; height: 0px; margin-right: 0.125em; margin-left: 0.125em;"><span style="position: absolute; clip: rect(3.445em, 1001.23em, 4.141em, -999.998em); top: -4.424em; left: 50%; margin-left: -0.613em;"><span class="mn" id="MathJax-Span-396" style="font-size: 70.7%; font-family: MathJax_Main;">0.03</span><span style="display: inline-block; width: 0px; height: 4.018em;"></span></span><span style="position: absolute; clip: rect(3.445em, 1001.6em, 4.141em, -999.998em); top: -3.645em; left: 50%; margin-left: -0.818em;"><span class="mn" id="MathJax-Span-397" style="font-size: 70.7%; font-family: MathJax_Main;">0.006</span><span style="display: inline-block; width: 0px; height: 4.018em;"></span></span><span style="position: absolute; clip: rect(0.904em, 1001.72em, 1.191em, -999.998em); top: -1.268em; left: 0em;"><span style="display: inline-block; overflow: hidden; vertical-align: 0em; border-top: 1.5px solid; width: 1.723em; height: 0px;"></span><span style="display: inline-block; width: 0px; height: 1.068em;"></span></span></span></span><span class="mo" id="MathJax-Span-398" style="font-family: MathJax_Main; padding-left: 0.289em;">=</span><span class="mn" id="MathJax-Span-399" style="font-family: MathJax_Main; padding-left: 0.289em;">5</span><span class="mtext" id="MathJax-Span-400" style="font-family: MathJax_Main;">&nbsp;</span><span class="mi" id="MathJax-Span-401" style="font-family: MathJax_Main;">r</span><span class="mi" id="MathJax-Span-402" style="font-family: MathJax_Main;">a</span><span class="mi" id="MathJax-Span-403" style="font-family: MathJax_Main;">d</span><span class="msubsup" id="MathJax-Span-404"><span style="display: inline-block; position: relative; width: 1.355em; height: 0px;"><span style="position: absolute; clip: rect(3.445em, 1000.37em, 4.141em, -999.998em); top: -4.014em; left: 0em;"><span class="mi" id="MathJax-Span-405" style="font-family: MathJax_Main;">s</span><span style="display: inline-block; width: 0px; height: 4.018em;"></span></span><span style="position: absolute; top: -4.383em; left: 0.412em;"><span class="texatom" id="MathJax-Span-406"><span class="mrow" id="MathJax-Span-407"><span class="mo" id="MathJax-Span-408" style="font-size: 70.7%; font-family: MathJax_Main;">−</span><span class="mn" id="MathJax-Span-409" style="font-size: 70.7%; font-family: MathJax_Main;">1</span></span></span><span style="display: inline-block; width: 0px; height: 4.018em;"></span></span></span></span></span><span style="display: inline-block; width: 0px; height: 2.215em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.547em; border-left: 0px solid; width: 0px; height: 1.652em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi mathvariant="normal">v</mi><mrow class="MJX-TeXAtom-ORD"><mi mathvariant="normal">m</mi><mi mathvariant="normal">a</mi><mi mathvariant="normal">x</mi></mrow></msub><mo>=</mo><mi>ω</mi><mi mathvariant="normal">A</mi><mo>∴</mo><mi>ω</mi><mo>=</mo><mfrac><msub><mi mathvariant="normal">v</mi><mrow class="MJX-TeXAtom-ORD"><mi mathvariant="normal">m</mi><mi mathvariant="normal">a</mi><mi mathvariant="normal">x</mi></mrow></msub><mi mathvariant="normal">A</mi></mfrac><mo>=</mo><mfrac><mn>0.03</mn><mn>0.006</mn></mfrac><mo>=</mo><mn>5</mn><mtext>&nbsp;</mtext><mi mathvariant="normal">r</mi><mi mathvariant="normal">a</mi><mi mathvariant="normal">d</mi><msup><mi mathvariant="normal">s</mi><mrow class="MJX-TeXAtom-ORD"><mo>−</mo><mn>1</mn></mrow></msup></math></span></span><script type="math/tex" id="MathJax-Element-36">\rm v_{max}=\omega A\therefore\omega=\frac{v_{max}}{A}=\frac{0.03}{0.006}=5\ rads^{-1} </script></span></p>
+
+<p><span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-37-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mi mathvariant=&quot;normal&quot;>T</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi>&amp;#x03C0;</mi></mrow><mi>&amp;#x03C9;</mi></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mo>&amp;#x00D7;</mo><mn>3.1416</mn></mrow><mn>5</mn></mfrac><mo>=</mo><mn>1.256</mn><mtext>&amp;#xA0;</mtext><mi mathvariant=&quot;normal&quot;>s</mi><mi mathvariant=&quot;normal&quot;>e</mi><mi mathvariant=&quot;normal&quot;>c</mi></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-410" style="width: 12.953em; display: inline-block;"><span style="display: inline-block; position: relative; width: 10.617em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.027em, 1010.58em, 2.502em, -999.998em); top: -2.006em; left: 0em;"><span class="mrow" id="MathJax-Span-411"><span class="mi" id="MathJax-Span-412" style="font-family: MathJax_Main;">T</span><span class="mo" id="MathJax-Span-413" style="font-family: MathJax_Main; padding-left: 0.289em;">=</span><span class="mfrac" id="MathJax-Span-414" style="padding-left: 0.289em;"><span style="display: inline-block; position: relative; width: 0.863em; height: 0px; margin-right: 0.125em; margin-left: 0.125em;"><span style="position: absolute; clip: rect(3.445em, 1000.78em, 4.141em, -999.998em); top: -4.424em; left: 50%; margin-left: -0.367em;"><span class="mrow" id="MathJax-Span-415"><span class="mn" id="MathJax-Span-416" style="font-size: 70.7%; font-family: MathJax_Main;">2</span><span class="mi" id="MathJax-Span-417" style="font-size: 70.7%; font-family: MathJax_Math-italic;">π<span style="display: inline-block; overflow: hidden; height: 1px; width: 0.002em;"></span></span></span><span style="display: inline-block; width: 0px; height: 4.018em;"></span></span><span style="position: absolute; clip: rect(3.568em, 1000.41em, 4.141em, -999.998em); top: -3.686em; left: 50%; margin-left: -0.203em;"><span class="mi" id="MathJax-Span-418" style="font-size: 70.7%; font-family: MathJax_Math-italic;">ω</span><span style="display: inline-block; width: 0px; height: 4.018em;"></span></span><span style="position: absolute; clip: rect(0.904em, 1000.86em, 1.191em, -999.998em); top: -1.268em; left: 0em;"><span style="display: inline-block; overflow: hidden; vertical-align: 0em; border-top: 1.5px solid; width: 0.863em; height: 0px;"></span><span style="display: inline-block; width: 0px; height: 1.068em;"></span></span></span></span><span class="mo" id="MathJax-Span-419" style="font-family: MathJax_Main; padding-left: 0.289em;">=</span><span class="mfrac" id="MathJax-Span-420" style="padding-left: 0.289em;"><span style="display: inline-block; position: relative; width: 2.994em; height: 0px; margin-right: 0.125em; margin-left: 0.125em;"><span style="position: absolute; clip: rect(3.404em, 1002.83em, 4.141em, -999.998em); top: -4.424em; left: 50%; margin-left: -1.432em;"><span class="mrow" id="MathJax-Span-421"><span class="mn" id="MathJax-Span-422" style="font-size: 70.7%; font-family: MathJax_Main;">2</span><span class="mo" id="MathJax-Span-423" style="font-size: 70.7%; font-family: MathJax_Main;">×</span><span class="mn" id="MathJax-Span-424" style="font-size: 70.7%; font-family: MathJax_Main;">3.1416</span></span><span style="display: inline-block; width: 0px; height: 4.018em;"></span></span><span style="position: absolute; clip: rect(3.445em, 1000.33em, 4.141em, -999.998em); top: -3.645em; left: 50%; margin-left: -0.162em;"><span class="mn" id="MathJax-Span-425" style="font-size: 70.7%; font-family: MathJax_Main;">5</span><span style="display: inline-block; width: 0px; height: 4.018em;"></span></span><span style="position: absolute; clip: rect(0.904em, 1002.99em, 1.191em, -999.998em); top: -1.268em; left: 0em;"><span style="display: inline-block; overflow: hidden; vertical-align: 0em; border-top: 1.5px solid; width: 2.994em; height: 0px;"></span><span style="display: inline-block; width: 0px; height: 1.068em;"></span></span></span></span><span class="mo" id="MathJax-Span-426" style="font-family: MathJax_Main; padding-left: 0.289em;">=</span><span class="mn" id="MathJax-Span-427" style="font-family: MathJax_Main; padding-left: 0.289em;">1.256</span><span class="mtext" id="MathJax-Span-428" style="font-family: MathJax_Main;">&nbsp;</span><span class="mi" id="MathJax-Span-429" style="font-family: MathJax_Main;">s</span><span class="mi" id="MathJax-Span-430" style="font-family: MathJax_Main;">e</span><span class="mi" id="MathJax-Span-431" style="font-family: MathJax_Main;">c</span></span><span style="display: inline-block; width: 0px; height: 2.01em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.497em; border-left: 0px solid; width: 0px; height: 1.652em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi mathvariant="normal">T</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi>π</mi></mrow><mi>ω</mi></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mo>×</mo><mn>3.1416</mn></mrow><mn>5</mn></mfrac><mo>=</mo><mn>1.256</mn><mtext>&nbsp;</mtext><mi mathvariant="normal">s</mi><mi mathvariant="normal">e</mi><mi mathvariant="normal">c</mi></math></span></span><script type="math/tex" id="MathJax-Element-37">\rm T=\frac{2\pi}{\omega}=\frac{2\times3.1416}{5}=1.256\ sec </script></span></p>
+
+<p>[ইসহাক স্যার: সংস্করণ- ২০২২, পৃষ্ঠা- ৫৭৩]</p>
+</span>
+                                    </div>
+                            </div>
+                        </div>
+                        
+                        <div class="row questionBlock">
+
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 19 </span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <p>আবহাওয়া অফিস ও শিল্প প্রতিষ্ঠানে কোন হাইগ্রোমিটার ব্যবহৃত হয়?</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row questionOptions">
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">A</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>রাসায়নিক হাইগ্রোমিটার</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">B</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>কেশ হাইগ্রোমিটার</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">C</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>শিশিরাঙ্ক হাইগ্রোমিটার</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text" style="font-weight:bold;">D</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>সিক্ত ও শুষ্ক বাল্ব হাইগ্রোমিটার</p>
+</label>
+                                                <span class="fas fa-check"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                    <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                                        <span style="color: black !important; font-weight: bold;">Solution:</span>
+                                        <br>
+                                        <span style="color: black !important;"><p>[ইসহাক স্যার: সংস্করণ- ২০২২, পৃষ্ঠা- ৭৭০]</p>
+</span>
+                                    </div>
+                            </div>
+                        </div>
+                        
+                        <div class="row questionBlock">
+
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 21 </span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <p>শীতকালে কোনো দোলক ঘড়ির দোলন কালের কীরূপ পরিবর্তন হয়?</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row questionOptions">
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">A</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>কমে যায়</p>
+</label>
+                                                <span class="fas fa-check"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">B</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>কোন পরিবর্তন হবে না</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">C</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>অনেক বেড়ে যায়</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text" style="font-weight:bold;">D</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>বেড়ে যায়</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                    <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                                        <span style="color: black !important; font-weight: bold;">Solution:</span>
+                                        <br>
+                                        <span style="color: black !important;"><p>জেনে রাখো: শীতকালে ঘড়ির দোলন কাল কমে যায় এবং ঘড়ি দ্রুত চলে।<br>
+[ইসহাক স্যার: সংস্করণ- ২০২২, পৃষ্ঠা- ৫৮৪]</p>
+</span>
+                                    </div>
+                            </div>
+                        </div>
+                        
+                        <div class="row questionBlock">
+
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 23 </span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <p>গ্রহের গতি সম্পর্কিত কোন সূত্রে কক্ষীয় বেগ এবং সূর্য ও গ্রহের মধ্যবর্তী দূরত্বের মধ্যে সম্পর্ক স্থাপিত হয়?</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row questionOptions">
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">A</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>৪র্থ সূত্র</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">B</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>১ম সূত্র</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">C</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>২য় সূত্র</p>
+</label>
+                                                <span class="fas fa-check"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text" style="font-weight:bold;">D</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>৩য় সূত্র</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                    <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                                        <span style="color: black !important; font-weight: bold;">Solution:</span>
+                                        <br>
+                                        <span style="color: black !important;"><p>[ইসহাক স্যার: সংস্করণ- ২০২২, পৃষ্ঠা- ৪১১]</p>
+</span>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="row questionBlock">
+
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 24 </span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <p>পৃথিবী পৃষ্ঠ থেকে h উচ্চতায় অভিকর্ষজ ত্বরণের (g<sub>h</sub>) মান-</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row questionOptions">
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">A</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p><span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-43-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><msub><mi mathvariant=&quot;normal&quot;>g</mi><mi mathvariant=&quot;normal&quot;>h</mi></msub><mo>=</mo><mi mathvariant=&quot;normal&quot;>g</mi><mrow><mo>(</mo><mrow><mn>1</mn><mo>&amp;#x2212;</mo><mfrac><mi mathvariant=&quot;normal&quot;>h</mi><mrow><mn>2</mn><mi mathvariant=&quot;normal&quot;>R</mi></mrow></mfrac></mrow><mo>)</mo></mrow></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-518" style="width: 8.472em; display: inline-block;"><span style="display: inline-block; position: relative; width: 6.924em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.323em, 1006.79em, 2.871em, -999.998em); top: -2.32em; left: 0em;"><span class="mrow" id="MathJax-Span-519"><span class="msubsup" id="MathJax-Span-520"><span style="display: inline-block; position: relative; width: 0.959em; height: 0px;"><span style="position: absolute; clip: rect(3.418em, 1000.5em, 4.374em, -999.998em); top: -4.005em; left: 0em;"><span class="mi" id="MathJax-Span-521" style="font-family: MathJax_Main;">g</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; top: -3.868em; left: 0.503em;"><span class="mi" id="MathJax-Span-522" style="font-size: 70.7%; font-family: MathJax_Main;">h</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span></span></span><span class="mo" id="MathJax-Span-523" style="font-family: MathJax_Main; padding-left: 0.276em;">=</span><span class="mi" id="MathJax-Span-524" style="font-family: MathJax_Main; padding-left: 0.276em;">g</span><span class="mrow" id="MathJax-Span-525" style="padding-left: 0.184em;"><span class="mo" id="MathJax-Span-526" style="vertical-align: 0em;"><span style="font-family: MathJax_Size1;">(</span></span><span class="mrow" id="MathJax-Span-527"><span class="mn" id="MathJax-Span-528" style="font-family: MathJax_Main;">1</span><span class="mo" id="MathJax-Span-529" style="font-family: MathJax_Main; padding-left: 0.23em;">−</span><span class="mfrac" id="MathJax-Span-530" style="padding-left: 0.23em;"><span style="display: inline-block; position: relative; width: 1.004em; height: 0px; margin-right: 0.139em; margin-left: 0.139em;"><span style="position: absolute; clip: rect(3.372em, 1000.37em, 4.146em, -999.998em); top: -4.415em; left: 50%; margin-left: -0.18em;"><span class="mi" id="MathJax-Span-531" style="font-size: 70.7%; font-family: MathJax_Main;">h</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; clip: rect(3.372em, 1000.87em, 4.146em, -999.998em); top: -3.641em; left: 50%; margin-left: -0.453em;"><span class="mrow" id="MathJax-Span-532"><span class="mn" id="MathJax-Span-533" style="font-size: 70.7%; font-family: MathJax_Main;">2</span><span class="mi" id="MathJax-Span-534" style="font-size: 70.7%; font-family: MathJax_Main;">R</span></span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; clip: rect(0.867em, 1001em, 1.186em, -999.998em); top: -1.273em; left: 0em;"><span style="display: inline-block; overflow: hidden; vertical-align: 0em; border-top: 1.3px solid; width: 1.004em; height: 0px;"></span><span style="display: inline-block; width: 0px; height: 1.05em;"></span></span></span></span></span><span class="mo" id="MathJax-Span-535" style="vertical-align: 0em;"><span style="font-family: MathJax_Size1;">)</span></span></span></span><span style="display: inline-block; width: 0px; height: 2.325em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.553em; border-left: 0px solid; width: 0px; height: 1.669em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi mathvariant="normal">g</mi><mi mathvariant="normal">h</mi></msub><mo>=</mo><mi mathvariant="normal">g</mi><mrow><mo>(</mo><mrow><mn>1</mn><mo>−</mo><mfrac><mi mathvariant="normal">h</mi><mrow><mn>2</mn><mi mathvariant="normal">R</mi></mrow></mfrac></mrow><mo>)</mo></mrow></math></span></span><script type="math/tex" id="MathJax-Element-43">\rm g_h=g\left(1-\frac{h}{2R}\right) </script></span></p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">B</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p><span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-44-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><msub><mi mathvariant=&quot;normal&quot;>g</mi><mi mathvariant=&quot;normal&quot;>h</mi></msub><mo>=</mo><mi mathvariant=&quot;normal&quot;>g</mi><mrow><mo>(</mo><mrow><mn>1</mn><mo>&amp;#x2212;</mo><mfrac><mi mathvariant=&quot;normal&quot;>h</mi><mi mathvariant=&quot;normal&quot;>R</mi></mfrac></mrow><mo>)</mo></mrow></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-536" style="width: 8.017em; display: inline-block;"><span style="display: inline-block; position: relative; width: 6.56em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.323em, 1006.42em, 2.871em, -999.998em); top: -2.32em; left: 0em;"><span class="mrow" id="MathJax-Span-537"><span class="msubsup" id="MathJax-Span-538"><span style="display: inline-block; position: relative; width: 0.959em; height: 0px;"><span style="position: absolute; clip: rect(3.418em, 1000.5em, 4.374em, -999.998em); top: -4.005em; left: 0em;"><span class="mi" id="MathJax-Span-539" style="font-family: MathJax_Main;">g</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; top: -3.868em; left: 0.503em;"><span class="mi" id="MathJax-Span-540" style="font-size: 70.7%; font-family: MathJax_Main;">h</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span></span></span><span class="mo" id="MathJax-Span-541" style="font-family: MathJax_Main; padding-left: 0.276em;">=</span><span class="mi" id="MathJax-Span-542" style="font-family: MathJax_Main; padding-left: 0.276em;">g</span><span class="mrow" id="MathJax-Span-543" style="padding-left: 0.184em;"><span class="mo" id="MathJax-Span-544" style="vertical-align: 0em;"><span style="font-family: MathJax_Size1;">(</span></span><span class="mrow" id="MathJax-Span-545"><span class="mn" id="MathJax-Span-546" style="font-family: MathJax_Main;">1</span><span class="mo" id="MathJax-Span-547" style="font-family: MathJax_Main; padding-left: 0.23em;">−</span><span class="mfrac" id="MathJax-Span-548" style="padding-left: 0.23em;"><span style="display: inline-block; position: relative; width: 0.64em; height: 0px; margin-right: 0.139em; margin-left: 0.139em;"><span style="position: absolute; clip: rect(3.372em, 1000.37em, 4.146em, -999.998em); top: -4.415em; left: 50%; margin-left: -0.18em;"><span class="mi" id="MathJax-Span-549" style="font-size: 70.7%; font-family: MathJax_Main;">h</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; clip: rect(3.372em, 1000.5em, 4.146em, -999.998em); top: -3.641em; left: 50%; margin-left: -0.271em;"><span class="mi" id="MathJax-Span-550" style="font-size: 70.7%; font-family: MathJax_Main;">R</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; clip: rect(0.867em, 1000.64em, 1.186em, -999.998em); top: -1.273em; left: 0em;"><span style="display: inline-block; overflow: hidden; vertical-align: 0em; border-top: 1.3px solid; width: 0.64em; height: 0px;"></span><span style="display: inline-block; width: 0px; height: 1.05em;"></span></span></span></span></span><span class="mo" id="MathJax-Span-551" style="vertical-align: 0em;"><span style="font-family: MathJax_Size1;">)</span></span></span></span><span style="display: inline-block; width: 0px; height: 2.325em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.553em; border-left: 0px solid; width: 0px; height: 1.669em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi mathvariant="normal">g</mi><mi mathvariant="normal">h</mi></msub><mo>=</mo><mi mathvariant="normal">g</mi><mrow><mo>(</mo><mrow><mn>1</mn><mo>−</mo><mfrac><mi mathvariant="normal">h</mi><mi mathvariant="normal">R</mi></mfrac></mrow><mo>)</mo></mrow></math></span></span><script type="math/tex" id="MathJax-Element-44">\rm g_h=g\left(1-\frac{h}{R}\right) </script></span></p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">C</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p><span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-45-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><msub><mi mathvariant=&quot;normal&quot;>g</mi><mi mathvariant=&quot;normal&quot;>h</mi></msub><mo>=</mo><mi mathvariant=&quot;normal&quot;>g</mi><mrow><mo>(</mo><mrow><mn>1</mn><mo>&amp;#x2212;</mo><mfrac><mrow><mn>2</mn><mi mathvariant=&quot;normal&quot;>h</mi></mrow><mi mathvariant=&quot;normal&quot;>R</mi></mfrac></mrow><mo>)</mo></mrow></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-552" style="width: 8.29em; display: inline-block;"><span style="display: inline-block; position: relative; width: 6.787em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.323em, 1006.65em, 2.871em, -999.998em); top: -2.32em; left: 0em;"><span class="mrow" id="MathJax-Span-553"><span class="msubsup" id="MathJax-Span-554"><span style="display: inline-block; position: relative; width: 0.959em; height: 0px;"><span style="position: absolute; clip: rect(3.418em, 1000.5em, 4.374em, -999.998em); top: -4.005em; left: 0em;"><span class="mi" id="MathJax-Span-555" style="font-family: MathJax_Main;">g</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; top: -3.868em; left: 0.503em;"><span class="mi" id="MathJax-Span-556" style="font-size: 70.7%; font-family: MathJax_Main;">h</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span></span></span><span class="mo" id="MathJax-Span-557" style="font-family: MathJax_Main; padding-left: 0.276em;">=</span><span class="mi" id="MathJax-Span-558" style="font-family: MathJax_Main; padding-left: 0.276em;">g</span><span class="mrow" id="MathJax-Span-559" style="padding-left: 0.184em;"><span class="mo" id="MathJax-Span-560" style="vertical-align: 0em;"><span style="font-family: MathJax_Size1;">(</span></span><span class="mrow" id="MathJax-Span-561"><span class="mn" id="MathJax-Span-562" style="font-family: MathJax_Main;">1</span><span class="mo" id="MathJax-Span-563" style="font-family: MathJax_Main; padding-left: 0.23em;">−</span><span class="mfrac" id="MathJax-Span-564" style="padding-left: 0.23em;"><span style="display: inline-block; position: relative; width: 0.867em; height: 0px; margin-right: 0.139em; margin-left: 0.139em;"><span style="position: absolute; clip: rect(3.372em, 1000.73em, 4.146em, -999.998em); top: -4.415em; left: 50%; margin-left: -0.362em;"><span class="mrow" id="MathJax-Span-565"><span class="mn" id="MathJax-Span-566" style="font-size: 70.7%; font-family: MathJax_Main;">2</span><span class="mi" id="MathJax-Span-567" style="font-size: 70.7%; font-family: MathJax_Main;">h</span></span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; clip: rect(3.372em, 1000.5em, 4.146em, -999.998em); top: -3.641em; left: 50%; margin-left: -0.271em;"><span class="mi" id="MathJax-Span-568" style="font-size: 70.7%; font-family: MathJax_Main;">R</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; clip: rect(0.867em, 1000.87em, 1.186em, -999.998em); top: -1.273em; left: 0em;"><span style="display: inline-block; overflow: hidden; vertical-align: 0em; border-top: 1.3px solid; width: 0.867em; height: 0px;"></span><span style="display: inline-block; width: 0px; height: 1.05em;"></span></span></span></span></span><span class="mo" id="MathJax-Span-569" style="vertical-align: 0em;"><span style="font-family: MathJax_Size1;">)</span></span></span></span><span style="display: inline-block; width: 0px; height: 2.325em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.553em; border-left: 0px solid; width: 0px; height: 1.669em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi mathvariant="normal">g</mi><mi mathvariant="normal">h</mi></msub><mo>=</mo><mi mathvariant="normal">g</mi><mrow><mo>(</mo><mrow><mn>1</mn><mo>−</mo><mfrac><mrow><mn>2</mn><mi mathvariant="normal">h</mi></mrow><mi mathvariant="normal">R</mi></mfrac></mrow><mo>)</mo></mrow></math></span></span><script type="math/tex" id="MathJax-Element-45">\rm g_h=g\left(1-\frac{2h}{R}\right) </script></span></p>
+</label>
+                                                <span class="fas fa-check"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text" style="font-weight:bold;">D</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p><span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-46-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><msub><mi mathvariant=&quot;normal&quot;>g</mi><mi mathvariant=&quot;normal&quot;>h</mi></msub><mo>=</mo><mi mathvariant=&quot;normal&quot;>g</mi><mrow><mo>(</mo><mrow><mn>1</mn><mo>+</mo><mfrac><mi mathvariant=&quot;normal&quot;>h</mi><mrow><mn>2</mn><mi mathvariant=&quot;normal&quot;>R</mi></mrow></mfrac></mrow><mo>)</mo></mrow></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-570" style="width: 8.472em; display: inline-block;"><span style="display: inline-block; position: relative; width: 6.924em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.323em, 1006.79em, 2.871em, -999.998em); top: -2.32em; left: 0em;"><span class="mrow" id="MathJax-Span-571"><span class="msubsup" id="MathJax-Span-572"><span style="display: inline-block; position: relative; width: 0.959em; height: 0px;"><span style="position: absolute; clip: rect(3.418em, 1000.5em, 4.374em, -999.998em); top: -4.005em; left: 0em;"><span class="mi" id="MathJax-Span-573" style="font-family: MathJax_Main;">g</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; top: -3.868em; left: 0.503em;"><span class="mi" id="MathJax-Span-574" style="font-size: 70.7%; font-family: MathJax_Main;">h</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span></span></span><span class="mo" id="MathJax-Span-575" style="font-family: MathJax_Main; padding-left: 0.276em;">=</span><span class="mi" id="MathJax-Span-576" style="font-family: MathJax_Main; padding-left: 0.276em;">g</span><span class="mrow" id="MathJax-Span-577" style="padding-left: 0.184em;"><span class="mo" id="MathJax-Span-578" style="vertical-align: 0em;"><span style="font-family: MathJax_Size1;">(</span></span><span class="mrow" id="MathJax-Span-579"><span class="mn" id="MathJax-Span-580" style="font-family: MathJax_Main;">1</span><span class="mo" id="MathJax-Span-581" style="font-family: MathJax_Main; padding-left: 0.23em;">+</span><span class="mfrac" id="MathJax-Span-582" style="padding-left: 0.23em;"><span style="display: inline-block; position: relative; width: 1.004em; height: 0px; margin-right: 0.139em; margin-left: 0.139em;"><span style="position: absolute; clip: rect(3.372em, 1000.37em, 4.146em, -999.998em); top: -4.415em; left: 50%; margin-left: -0.18em;"><span class="mi" id="MathJax-Span-583" style="font-size: 70.7%; font-family: MathJax_Main;">h</span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; clip: rect(3.372em, 1000.87em, 4.146em, -999.998em); top: -3.641em; left: 50%; margin-left: -0.453em;"><span class="mrow" id="MathJax-Span-584"><span class="mn" id="MathJax-Span-585" style="font-size: 70.7%; font-family: MathJax_Main;">2</span><span class="mi" id="MathJax-Span-586" style="font-size: 70.7%; font-family: MathJax_Main;">R</span></span><span style="display: inline-block; width: 0px; height: 4.01em;"></span></span><span style="position: absolute; clip: rect(0.867em, 1001em, 1.186em, -999.998em); top: -1.273em; left: 0em;"><span style="display: inline-block; overflow: hidden; vertical-align: 0em; border-top: 1.3px solid; width: 1.004em; height: 0px;"></span><span style="display: inline-block; width: 0px; height: 1.05em;"></span></span></span></span></span><span class="mo" id="MathJax-Span-587" style="vertical-align: 0em;"><span style="font-family: MathJax_Size1;">)</span></span></span></span><span style="display: inline-block; width: 0px; height: 2.325em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.553em; border-left: 0px solid; width: 0px; height: 1.669em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi mathvariant="normal">g</mi><mi mathvariant="normal">h</mi></msub><mo>=</mo><mi mathvariant="normal">g</mi><mrow><mo>(</mo><mrow><mn>1</mn><mo>+</mo><mfrac><mi mathvariant="normal">h</mi><mrow><mn>2</mn><mi mathvariant="normal">R</mi></mrow></mfrac></mrow><mo>)</mo></mrow></math></span></span><script type="math/tex" id="MathJax-Element-46">\rm g_h=g\left(1+\frac{h}{2R}\right) </script></span></p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                    <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                                        <span style="color: black !important; font-weight: bold;">Solution:</span>
+                                        <br>
+                                        <span style="color: black !important;"><p>[ইসহাক স্যার: সংস্করণ- ২০২২, পৃষ্ঠা- ৪২৩]</p>
+</span>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="row questionBlock">
+
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 25 </span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <p>শুষ্ক ও আর্দ্র বাল্ব হাইগ্রোমিটারের ক্ষেত্রে থার্মোমিটার দুটির পাঠের পার্থক্য কম হলে কোনটি সঠিক?&nbsp;</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row questionOptions">
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">A</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>আবহাওয়া শুষ্ক</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">B</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>বৃষ্টি হতে পারে</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">C</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>ঝড় হতে পারে</p>
+</label>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 row questionOption">
+                                        <div class="input-group " style="align-items: center;">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text" style="font-weight:bold;">D</span>
+                                            </div>
+                                            <div class="input-group-append questionTable">
+                                                <label style="margin-left:5px;"><p>আবহাওয়া আর্দ্র</p>
+</label>
+                                                <span class="fas fa-check"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                    <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                                        <span style="color: black !important; font-weight: bold;">Solution:</span>
+                                        <br>
+                                        <span style="color: black !important;"><p>জেনে রাখো: থার্মোমিটার দুইটির পাঠের পার্থক্য-&nbsp;<br>
+খুব বেশি হলে - আবহাওয়া শুষ্ক<br>
+ধীরে ধীরে কমতে থাকলে - বৃষ্টি হওয়ার সম্ভাবনা<br>
+হঠাৎ হ্রাস পেলে - ঝড় হতে পারে<br>
+[ইসহাক স্যার: সংস্করণ- ২০২২, পৃষ্ঠা- ৭৭২]</p>
+</span>
+                                    </div>
+                            </div>
+                        </div>
+
+            </div>
+
+    <div class="col-md-12">
+        <div class="text-center">
+            <a class="uu-button-style-4" href="/Routine?type=exam">My Routine</a>
+        </div>
+    </div>
+</div>
