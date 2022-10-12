@@ -9,7 +9,8 @@
 
             <div class="TakeExamBody">
             
-             <div id="pdfDisplayBox" style="display:none;">
+              <div id="pdfDisplayBox">
+                            <input type="hidden" name="mcqAnalysisPdf" id="mcqAnalysisPdf" value="https://ums-public-temp-store.s3-ap-southeast-1.amazonaws.com/MasterSetMcqQuestionPdf/40298/Bn_S__8015fc4e-0bfc-4be7-abcd-15c34d5add9f.pdf" />
                             <div id="app">
                                 <div id="viewport-container">
                                     <div role="main" id="viewport">
@@ -17,12 +18,6 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div id="waitingForPdf" class="TakeExamHeader" data-report-status="2">
-                            <input type="hidden" class="mcq-enc-form-data" id="mcqEncFormData" value="I3ZY/K9H6FYdiGOaMdSuy9X0T/3nUVCTWhDdD74UnvHzpwwVdbmUPIHtazmrxuvqL/bb68bvx78zUJoaXGbwrA==" />
-                            <div style="width:10%; float:left;"><div class="loader"></div></div>
-                            <div style="width:90%; float:left; text-align:left; margin-top:10px; font-size:20px;"><span>Generating....</span></div>
-                            <div style="clear:both;"></div>
                         </div>
                         
                         <!--  -->
