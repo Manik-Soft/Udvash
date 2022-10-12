@@ -9,6 +9,7 @@
 
             <div class="TakeExamBody">
                         <iframe src="http://docs.google.com/gview?url=https://ums-public-temp-store.s3-ap-southeast-1.amazonaws.com/MasterSetMcqQuestionPdf/40298/Bn_S__8015fc4e-0bfc-4be7-abcd-15c34d5add9f.pdf&embedded=true" embedded=true style="width:100%; height:1000px;"  allow="autoplay"></iframe>
+                        <embed name="plugin" type="application/pdf" src="https://ums-public-temp-store.s3-ap-southeast-1.amazonaws.com/MasterSetMcqQuestionPdf/40298/Bn_S__8015fc4e-0bfc-4be7-abcd-15c34d5add9f.pdf" height="100%" style="width:100%; height:1000px;">
      </div>
 
 </div>
