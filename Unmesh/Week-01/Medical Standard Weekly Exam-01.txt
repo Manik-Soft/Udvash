@@ -24,3 +24,13 @@
                        <iframe src="https://drive.google.com/viewerng/viewer?url=https://ums-public-temp-store.s3-ap-southeast-1.amazonaws.com/MasterSetMcqQuestionPdf/40298/Bn_S__8015fc4e-0bfc-4be7-abcd-15c34d5add9f.pdf&embedded=true" height="100%" style="width:100%; height:1000px;" allow="autoplay"></iframe>
       </div>
 </div>
+        $(document).ready(function () {
+            screen.orientation.addEventListener('change', function () {
+                initPDFViewer();
+            });
+            if ($("#mcqAnalysisPdf").length > 0) {
+                var pdflink = $("#mcqAnalysisPdf").val();
+                downloadFile(pdflink);
+
+            }
+        });
