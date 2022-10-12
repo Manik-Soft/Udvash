@@ -1,0 +1,27 @@
+<div class="TakeExamWrapper">
+
+    <div class="TakeExamHeader">
+        <h2 style="font-size: 30px;">Medical + Varsity Math Program 2022</h2>
+        <h3>1st Time All Exam + 3 Materials</h3>
+        <h3> Medical Standard Weekly Exam-01</h3>
+        <h2 style="font-size: 25px;">MCQ Master Set: 1 (Question &amp; Solution)</h2>
+    </div>
+
+            <div class="TakeExamBody">
+                        <div id="pdfDisplayBox">
+                            <input type="hidden" name="mcqAnalysisPdf" id="mcqAnalysisPdf" value="https://ums-public-temp-store.s3-ap-southeast-1.amazonaws.com/MasterSetMcqQuestionPdf/40298/Bn_S__8015fc4e-0bfc-4be7-abcd-15c34d5add9f.pdf">
+                            <div id="app">
+                                <div id="viewport-container">
+                                    <div role="main" id="viewport"><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div><div style="width: 100%"><canvas width="1355" height="1944" style="width: 1100px; height: 1555px;"></canvas></div></div>
+                                </div>
+                            </div>
+                        </div>
+
+            </div>
+
+    <div class="col-md-12">
+        <div class="text-center">
+            <a href="/Exam/Question?courseId=1013&amp;routineId=45417&amp;examId=40298" class="uu-button-style-4">Back</a>
+        </div>
+    </div>
+</div>
