@@ -3634,10 +3634,4 @@
                         </div>
 
             </div>
-
-    <div class="col-md-12">
-        <div class="text-center">
-            <a href="/Exam/Question?courseId=1013&amp;routineId=44927&amp;examId=40181" class="uu-button-style-4">Back</a>
-        </div>
-    </div>
 </div>
