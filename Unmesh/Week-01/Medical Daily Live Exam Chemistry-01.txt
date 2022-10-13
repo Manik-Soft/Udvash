@@ -3651,10 +3651,4 @@ Br&nbsp;এর তড়িৎ ঋণাত্মকতা 2.8<br>
                         </div>
 
             </div>
-
-    <div class="col-md-12">
-        <div class="text-center">
-            <a href="/Exam/Question?courseId=1013&amp;routineId=45005&amp;examId=40242" class="uu-button-style-4">Back</a>
-        </div>
-    </div>
 </div>
