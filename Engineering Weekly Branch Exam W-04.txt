@@ -1,0 +1,222 @@
+<div class="TakeExamWrapper">
+
+    <div class="TakeExamHeader">
+        <h2 style="font-size: 30px;">Engineering Admission Program 2022</h2>
+        <h3>Engineering Advance Course</h3>
+        <h3>Engineering Weekly Exam W-04</h3>
+        <h2 style="font-size: 25px;">MCQ Master Set</h2>
+    </div>
+
+            <div class="TakeExamBody">
+                        <iframe src="https://drive.google.com/viewerng/viewer?url=https://ums-public-temp-store.s3-ap-southeast-1.amazonaws.com/MasterSetMcqQuestionPdf/39961/Bn_S__1f0336e6-84da-4720-bbfa-aa7971e24afe.pdf&amp;embedded=true" height="100%" style="width:100%; height:1000px;" allow="autoplay"></iframe> 
+
+            </div><div class="TakeExamHeader">
+        
+        
+        
+        <h2 style="font-size: 25px;">Written Master Set: 1 (Question &amp; Solution)</h2>
+    </div><div class="TakeExamBody">
+                            <div class="row" style="margin-top:20px;">
+                                <h2>Higher Mathematics (4)</h2>
+                            </div>
+                        <div class="row questionBlock">
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 1</span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <img style="width:100%; " src="https://ums-public-saq.s3-ap-southeast-1.amazonaws.com/SaqExamQuestionImage/39961/UniqueSet_1_UniqueSetSerial_1_Version_1_92ae4fba-b6c3-440f-9b5e-3efdb73e5a4d.jpg">
+                                        </div>
+                                    </div>
+                                </div>
+                                        <div class="row solveText" style=" display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4; ">
+                                            <img style="width:100%; " src="https://ums-public-saq.s3-ap-southeast-1.amazonaws.com/SaqExamQuestionImage/39961/UniqueSet_1_UniqueSetSerial_1_Version_1_345a3565-fa53-4c8d-b0f2-d53f1e05848e.jpg">
+                                        </div>
+
+                            </div>
+                        </div>
+                        <div class="row questionBlock">
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 2</span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <img style="width:100%; " src="https://ums-public-saq.s3-ap-southeast-1.amazonaws.com/SaqExamQuestionImage/39961/UniqueSet_1_UniqueSetSerial_2_Version_1_dcf84cc4-af73-4d78-9fcb-f218bcfc73ba.jpg">
+                                        </div>
+                                    </div>
+                                </div>
+                                        <div class="row solveText" style=" display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4; ">
+                                            <img style="width:100%; " src="https://ums-public-saq.s3-ap-southeast-1.amazonaws.com/SaqExamQuestionImage/39961/UniqueSet_1_UniqueSetSerial_2_Version_1_8f6a9a6a-66bd-4ae3-8d6a-90c18c8f8851.jpg">
+                                        </div>
+
+                            </div>
+                        </div>
+                        <div class="row questionBlock">
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 3</span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <img style="width:100%; " src="https://ums-public-saq.s3-ap-southeast-1.amazonaws.com/SaqExamQuestionImage/39961/UniqueSet_1_UniqueSetSerial_3_Version_1_6a0e0e58-a074-4302-9443-b43c323a10b7.jpg">
+                                        </div>
+                                    </div>
+                                </div>
+                                        <div class="row solveText" style=" display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4; ">
+                                            <img style="width:100%; " src="https://ums-public-saq.s3-ap-southeast-1.amazonaws.com/SaqExamQuestionImage/39961/UniqueSet_1_UniqueSetSerial_3_Version_1_90072dbf-f522-4203-8bd7-89d803fa6594.jpg">
+                                        </div>
+
+                            </div>
+                        </div>
+                        <div class="row questionBlock">
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 4</span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <img style="width:100%; " src="https://ums-public-saq.s3-ap-southeast-1.amazonaws.com/SaqExamQuestionImage/39961/UniqueSet_1_UniqueSetSerial_4_Version_1_ab637895-6df4-409f-9d2d-b9eb42a2f783.jpg">
+                                        </div>
+                                    </div>
+                                </div>
+                                        <div class="row solveText" style=" display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4; ">
+                                            <img style="width:100%; " src="https://ums-public-saq.s3-ap-southeast-1.amazonaws.com/SaqExamQuestionImage/39961/UniqueSet_1_UniqueSetSerial_4_Version_1_c036120c-fe46-4fae-8904-efe5af4f58b3.jpg">
+                                        </div>
+
+                            </div>
+                        </div>
+                            <div class="row" style="margin-top:20px;">
+                                <h2>Physics (3)</h2>
+                            </div>
+                        <div class="row questionBlock">
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 5</span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <img style="width:100%; " src="https://ums-public-saq.s3-ap-southeast-1.amazonaws.com/SaqExamQuestionImage/39961/UniqueSet_1_UniqueSetSerial_5_Version_1_833008a7-c4d3-4829-9bf4-ff3b1602ada4.jpg">
+                                        </div>
+                                    </div>
+                                </div>
+                                        <div class="row solveText" style=" display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4; ">
+                                            <img style="width:100%; " src="https://ums-public-saq.s3-ap-southeast-1.amazonaws.com/SaqExamQuestionImage/39961/UniqueSet_1_UniqueSetSerial_5_Version_1_32a10c95-bcf3-44fc-99cf-9aba953d9534.jpg">
+                                        </div>
+
+                            </div>
+                        </div>
+                        <div class="row questionBlock">
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 6</span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <img style="width:100%; " src="https://ums-public-saq.s3-ap-southeast-1.amazonaws.com/SaqExamQuestionImage/39961/UniqueSet_1_UniqueSetSerial_6_Version_1_9078cc09-78d0-420d-8204-e1c461b870a9.jpg">
+                                        </div>
+                                    </div>
+                                </div>
+                                        <div class="row solveText" style=" display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4; ">
+                                            <img style="width:100%; " src="https://ums-public-saq.s3-ap-southeast-1.amazonaws.com/SaqExamQuestionImage/39961/UniqueSet_1_UniqueSetSerial_6_Version_1_6ddc82d2-6ea9-4d10-aa8c-58a9c9366f3c.jpg">
+                                        </div>
+
+                            </div>
+                        </div>
+                        <div class="row questionBlock">
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 7</span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <img style="width:100%; " src="https://ums-public-saq.s3-ap-southeast-1.amazonaws.com/SaqExamQuestionImage/39961/UniqueSet_1_UniqueSetSerial_7_Version_1_ffeffe80-cd21-4aff-a882-134c6d936da1.jpg">
+                                        </div>
+                                    </div>
+                                </div>
+                                        <div class="row solveText" style=" display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4; ">
+                                            <img style="width:100%; " src="https://ums-public-saq.s3-ap-southeast-1.amazonaws.com/SaqExamQuestionImage/39961/UniqueSet_1_UniqueSetSerial_7_Version_1_4a715389-b751-4c4c-9391-fbc66c8ef928.jpg">
+                                        </div>
+
+                            </div>
+                        </div>
+                            <div class="row" style="margin-top:20px;">
+                                <h2>Chemistry (3)</h2>
+                            </div>
+                        <div class="row questionBlock">
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 8</span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <img style="width:100%; " src="https://ums-public-saq.s3-ap-southeast-1.amazonaws.com/SaqExamQuestionImage/39961/UniqueSet_1_UniqueSetSerial_8_Version_1_c56175d5-3d06-435d-95b1-3341120d8b43.jpg">
+                                        </div>
+                                    </div>
+                                </div>
+                                        <div class="row solveText" style=" display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4; ">
+                                            <img style="width:100%; " src="https://ums-public-saq.s3-ap-southeast-1.amazonaws.com/SaqExamQuestionImage/39961/UniqueSet_1_UniqueSetSerial_8_Version_1_6a98135e-cad2-4472-bb5a-ad6b10bde792.jpg">
+                                        </div>
+
+                            </div>
+                        </div>
+                        <div class="row questionBlock">
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 9</span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <img style="width:100%; " src="https://ums-public-saq.s3-ap-southeast-1.amazonaws.com/SaqExamQuestionImage/39961/UniqueSet_1_UniqueSetSerial_9_Version_1_334fd684-09d4-44d1-97b0-b096eb5f3ea0.jpg">
+                                        </div>
+                                    </div>
+                                </div>
+                                        <div class="row solveText" style=" display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4; ">
+                                            <img style="width:100%; " src="https://ums-public-saq.s3-ap-southeast-1.amazonaws.com/SaqExamQuestionImage/39961/UniqueSet_1_UniqueSetSerial_9_Version_1_a76ffd84-b6ce-4638-99ec-ddac80bf2a67.jpg">
+                                        </div>
+
+                            </div>
+                        </div>
+                        <div class="row questionBlock">
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 10</span>
+                                            
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <img style="width:100%; " src="https://ums-public-saq.s3-ap-southeast-1.amazonaws.com/SaqExamQuestionImage/39961/UniqueSet_1_UniqueSetSerial_10_Version_1_9eb4e6c7-f256-414b-8983-317b88d8245a.jpg">
+                                        </div>
+                                    </div>
+                                </div>
+                                        <div class="row solveText" style=" display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4; ">
+                                            <img style="width:100%; " src="https://ums-public-saq.s3-ap-southeast-1.amazonaws.com/SaqExamQuestionImage/39961/UniqueSet_1_UniqueSetSerial_10_Version_1_18fbac79-0553-4c4a-83bf-330f90732021.jpg">
+                                        </div>
+
+                            </div>
+                        </div>
+
+            </div>
+
+    
+</div>
