@@ -9,7 +9,7 @@
     </div>
             <div class="TakeExamBody">
                         <div class="row" style="margin-top:20px;">
-                                <h4>Engineering Daily Live Exam M-06</h4>
+                                <h4>Engineering Daily Live Exam P-06</h4> 
                             </div>
                             
     
