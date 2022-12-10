@@ -1,0 +1,11 @@
+<div class="TakeExamWrapper">
+    <div class="TakeExamHeader">
+        <h2 style="font-size: 30px;">Medical Admission Program 2022</h2>
+        <h3>1st Time All Exam + 3 Materials</h3>
+        <h3>Medical Standard Weekly Exam-05</h3>
+        <h2 style="font-size: 25px;">MCQ Master Set: 1 (Question &amp; Solution)</h2>
+    </div>
+<div class="TakeExamBody">
+   <iframe src="https://drive.google.com/viewerng/viewer?url=https://ums-public-temp-store.s3-ap-southeast-1.amazonaws.com/MasterSetMcqQuestionPdf/40302/Bn_S__1a84bc6b-7cb0-48e8-a340-e625073ed204.pdf&embedded=true" height="100%" style="width:100%; height:1000px;" allow="autoplay"></iframe>                     
+  </div>
+</div>
