@@ -14458,8 +14458,5 @@ f-ব্লক মৌলের সংখ্যা 27 টি।<br>
                             </div>
                         </div><h3>Branch Set: 01</h3><iframe src="https://drive.google.com/viewerng/viewer?url=https://ums-public-temp-store.s3-ap-southeast-1.amazonaws.com/MasterSetMcqQuestionPdf/43414/Bn_S__35bf3490-d4e3-4a84-a31d-4131eb5c1e3c.pdf&amp;embedded=true" height="100%" style="width:100%; height:1000px;" allow="autoplay"></iframe>
 <h3>Branch Set: 02</h3><iframe src="https://drive.google.com/viewerng/viewer?url=https://ums-public-temp-store.s3-ap-southeast-1.amazonaws.com/MasterSetMcqQuestionPdf/43414/Bn_S__5eb68cfd-35ea-40ed-b8a3-a05e9511cbc0.pdf&amp;embedded=true" height="100%" style="width:100%; height:1000px;" allow="autoplay"></iframe></div><div class="col-md-12">
-        <div class="text-center">
-            <a href="/Exam/Question?courseId=1013&amp;routineId=53716&amp;examId=43602" class="uu-button-style-4">Back</a>
-        </div>
     </div>
 </div>
