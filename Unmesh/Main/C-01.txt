@@ -7248,12 +7248,12 @@
                         </div>
 
             </div>
-            <h3>Branch Set: 01</h3>
+
+<h3>Branch Set: 01</h3>
 <a href="https://drive.google.com/viewerng/viewer?url=https://ums-public-temp-store.s3-ap-southeast-1.amazonaws.com/MasterSetMcqQuestionPdf/43389/Bn_S__e4a64277-66c3-4d1a-afff-37a9268773cb.pdf&amp;embedded=true" target="_blank" title="Set 01" style="cursor: pointer;color: blue;float: right;/* display: inline; *//* clear: right; */">Link</a>
-<iframe src="https://drive.google.com/viewerng/viewer?url=&amp;embedded=true" height="100%" style="width:100%; height:1000px;" allow="autoplay"></iframe>
-https://ums-public-temp-store.s3-ap-southeast-1.amazonaws.com/MasterSetMcqQuestionPdf/43389/Bn_S__e4a64277-66c3-4d1a-afff-37a9268773cb.pdf
+<iframe src="https://drive.google.com/viewerng/viewer?url=https://ums-public-temp-store.s3-ap-southeast-1.amazonaws.com/MasterSetMcqQuestionPdf/43389/Bn_S__e4a64277-66c3-4d1a-afff-37a9268773cb.pdf&amp;embedded=true" height="100%" style="width:100%; height:1000px;" allow="autoplay"></iframe>
 <h3>Branch Set: 02</h3>
 <a href="https://drive.google.com/viewerng/viewer?url=https://ums-public-temp-store.s3-ap-southeast-1.amazonaws.com/MasterSetMcqQuestionPdf/43389/Bn_S__e5d268e2-04d6-498f-a8ee-d1cde3600f96.pdf&amp;embedded=true" target="_blank" title="Set 01" style="cursor: pointer;color: blue;float: right;/* display: inline; *//* clear: right; */">Link</a>
-<iframe src="https://drive.google.com/viewerng/viewer?url=https://ums-public-temp-store.s3-ap-southeast-1.amazonaws.com/MasterSetMcqQuestionPdf/43389/Bn_S__e5d268e2-04d6-498f-a8ee-d1cde3600f96.pdf.pdf&amp;embedded=true" height="100%" style="width:100%; height:1000px;" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/viewerng/viewer?url=https://ums-public-temp-store.s3-ap-southeast-1.amazonaws.com/MasterSetMcqQuestionPdf/43389/Bn_S__e5d268e2-04d6-498f-a8ee-d1cde3600f96.pdf&amp;embedded=true" height="100%" style="width:100%; height:1000px;" allow="autoplay"></iframe>
 
 </div>
