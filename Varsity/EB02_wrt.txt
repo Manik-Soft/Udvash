@@ -1,0 +1,686 @@
+<div class="TakeExamWrapper">
+        <div class="TakeExamHeader">
+        <h2 style="font-size: 30px;">Engineering Admission Program 2022</h2>
+        <h3>Engineering Exam Pack + All Materials</h3>
+        <h3>Varsity Weekly Bangla + English Written Exam-02</h3>
+        <h2 style="font-size: 25px;">[ Quantity (16): E,B - 08]</h2><br>
+        <h2 style="font-size: 25px;">40 min [ Per Each Question - 2.5 min ]</h2>
+    </div>
+            <div class="TakeExamBody">
+<div class="row" style="margin-top:20px;">
+    <h2>English (8)</h2>
+</div>
+<div class="row questionBlock">
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 1</span></div>
+                <div class="questionText" style="display: block;">
+                    <table border="0" cellpadding="1" cellspacing="1" style="width: 100%;">
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <p>Make a paragraph using the antonym of the following words.</p>
+                                    Black, aid, arrest, chastise, adhere
+                                </td>
+                                <td style="vertical-align: bottom; text-align: right;">২.৫</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+        </div>
+        <div class="row solveText" style=" display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4; ">
+            <p style="text-align: justify;">Nelson Mandela was not a white person and thus he had to endure a lot of
+                difficulties throughout his life. He protested against white supremacy. In his time, white domination
+                was very blatant and rigid. For supporting black people, he had to be imprisoned for nearly three
+                decades. After facing a lot of hardships, he was rewarded with the Nobel prize. At the end, he left
+                public life.</p>
+
+            <p><strong>Mark distribution:</strong></p>
+
+            <p>For writing a paragraph using the antonym of the given words; (0.5 × 5) = 2.5 marks.</p>
+
+        </div>
+
+    </div>
+</div>
+<div class="row questionBlock">
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 2</span></div>
+                <div class="questionText" style="display: block;">
+                    <table border="0" cellpadding="1" cellspacing="1" style="width: 100%;">
+                        <tbody>
+                            <tr>
+                                <td>Use right appropriate preposition-</td>
+                                <td style="vertical-align: bottom; text-align: right;">২.৫</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <p>(i) He acted according __ my advice.</p>
+
+                    <p>(ii) I assured her ______ my preparation.</p>
+
+                    <p>(iii) My boss was annoyed with me ______ my absence.</p>
+
+                    <p>(iv) Suddenly I burst _______ tears.</p>
+
+                    <p>(v) He did this based __ some facts.</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row solveText" style=" display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4; ">
+            <p>(i) to</p>
+
+            <p>(ii) of</p>
+
+            <p>(iii) for</p>
+
+            <p>(iv) into</p>
+
+            <p>(v) on</p>
+
+            <p><strong>Mark distribution:</strong></p>
+
+            <p>Each preposition carries 0.5 mark.</p>
+
+        </div>
+
+    </div>
+</div>
+<div class="row questionBlock">
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 3</span></div>
+                <div class="questionText" style="display: block;">
+                    <table border="0" cellpadding="1" cellspacing="1" style="width: 100%;">
+                        <tbody>
+                            <tr>
+                                <td><strong>Change the gender of the following words into feminine gender.</strong></td>
+                                <td style="vertical-align: bottom; text-align: right;">২.৫</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <p>Horse, Bee, Priest, Widower, Abbot</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row solveText" style=" display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4; ">
+            <p>Horse- Mare</p>
+
+            <p>Bee- Drone</p>
+
+            <p>Priest- Priestess</p>
+
+            <p>Widower – widow</p>
+
+            <p>Abbot- Abbess</p>
+
+            <p><strong>Mark distribution:</strong></p>
+
+            <p>Each word carries 0.5 mark.</p>
+
+        </div>
+
+    </div>
+</div>
+<div class="row questionBlock">
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 4</span></div>
+                <div class="questionText" style="display: block;">
+                    <table border="0" cellpadding="1" cellspacing="1" style="width: 100%;">
+                        <tbody>
+                            <tr>
+                                <td><b>Make five meaningful sentences using the antonym of the following words:</b></td>
+                                <td style="vertical-align: bottom; text-align: right;">২.৫</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <p>Cautious, Belligerent, Disclose, Atheist, Accord</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row solveText" style=" display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4; ">
+            <p>(i) Cautious- He is a careless worker.</p>
+
+            <p>(ii) Belligerent- We loved the person since he was a very calm human being.</p>
+
+            <p>(iii) Disclose- Maisha tried to hide her excitement.</p>
+
+            <p>(iv) Atheist- He turned into a believer after having an accident.</p>
+
+            <p>(v) Accord- It shows that the results are opposed to the theory.</p>
+
+            <p><strong>Mark distribution:</strong></p>
+
+            <p>Each sentence carries 0.5 mark.</p>
+
+        </div>
+
+    </div>
+</div>
+<div class="row questionBlock">
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 5</span></div>
+                <div class="questionText" style="display: block;">
+                    <table border="0" cellpadding="1" cellspacing="1" style="width: 100%;">
+                        <tbody>
+                            <tr>
+                                <td><b>Replace the underlined words with their synonyms and antonyms without changing
+                                        the meaning.&nbsp;</b>(<b>Note:&nbsp;</b>You can use/omit negative words to keep
+                                    the meaning same).</td>
+                                <td style="vertical-align: bottom; text-align: right;">২.৫</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <p>1. One of the best ways to <u>enhance</u> your vocabulary is by reading articles. (Synonym)</p>
+
+                    <p>2.&nbsp;He <u>deliberately</u> disobeyed me. (Synonym)</p>
+
+                    <p>3. There was a <u>dearth</u> of reliable information on the subject. (Antonym)</p>
+
+                    <p>4. The <u>disparity</u> of force was not so great as to make resistance altogether hopeless.
+                        (Synonym)</p>
+
+                    <p>5. We <u>should not express</u> our emotion formal learning&nbsp;environments. (Antonym)</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row solveText" style=" display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4; ">
+            <p>1. enrich/ improve/ increase/develop;</p>
+
+            <p>2. intentionally/willfully/consciously/purposely/knowingly/</p>
+
+            <p>purposefully;</p>
+
+            <p>3. abundance/surfeit;</p>
+
+            <p>4. difference/discrepancy/inconsistency/imbalance/variance;</p>
+
+            <p>5. Suppress/ Hide/ Restrain/ control/ hold.</p>
+
+            <p><strong>Mark distribution:</strong></p>
+
+            <p>For each synonym / antonym will get 0.5 mark.</p>
+
+            <p><strong>[N.B:</strong> Alternates are acceptable if they are correct.]</p>
+
+        </div>
+
+    </div>
+</div>
+<div class="row questionBlock">
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 6</span></div>
+                <div class="questionText" style="display: block;">
+                    <table border="0" cellpadding="1" cellspacing="1" style="width: 100%;">
+                        <tbody>
+                            <tr>
+                                <td><b>Replace the underlined words with their synonyms and antonyms without changing
+                                        the meaning.</b> (<b>Note:</b>You can use/omit negative words to keep the
+                                    meaning same).</td>
+                                <td style="vertical-align: bottom; text-align: right;">২.৫</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <p>1. There was a mystery about the Animal, he said, but he would not <u>elucidate</u>. (Synonym)
+                    </p>
+
+                    <p>2. Criminals have massive <u>disdain</u> for the law. (Synonym)</p>
+
+                    <p>3. The main <u>entrance</u> of Curzon Hall is blocked for repairs. (Synonym)</p>
+
+                    <p>4. He tends to <u>exaggerate</u> when talking about his accomplishments. (Antonym)</p>
+
+                    <p>5. Highlight the section that you want to <u>delete</u>. (Antonym)</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row solveText" style=" display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4; ">
+            <p>1. expound/ explain /exemplify/describe;</p>
+
+            <p>2. despise/ scorn/ hatred/abhorrence/loathing/detestation;</p>
+
+            <p>3. access/gate/ path;</p>
+
+            <p>4. understate/ depreciate/ underestimate;</p>
+
+            <p>5. insert/put /push/install/ upload/ load.</p>
+
+            <p><strong>Mark distribution:</strong></p>
+
+            <p>For each synonym / antonym will get 0.5 mark.</p>
+
+            <p><strong>[N.B:</strong> Alternates are acceptable if they are correct.]</p>
+
+        </div>
+
+    </div>
+</div>
+<div class="row questionBlock">
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 7</span></div>
+                <div class="questionText" style="display: block;">
+                    <table border="0" cellpadding="1" cellspacing="1" style="width: 100%;">
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <p>Narrate your <strong>DAY-ROUTINE</strong> by using the following adverbs:</p>
+                                    Quickly, late, early, carefully, regularly.
+                                </td>
+                                <td style="vertical-align: bottom; text-align: right;">২.৫</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+        </div>
+        <div class="row solveText" style=" display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4; ">
+            <p style="text-align: center;"><b><u>My Day-Routine</u></b></p>
+
+            <p style="text-align: justify;">I usually get up <b><u>early</u></b><u> </u>in the morning. I rarely get up
+                late. Then I wash my face and hands. I have breakfast <b><u>regularly</u></b>, because it is very
+                important for my health. I spend a lot of time getting dressed, so I run <b><u>quickly</u></b> to the
+                bus-stop. I have lessons from 8.30 am to 3.00 pm. I listen to my teachers <b><u>carefully</u></b>
+                because I want to be a successful student. After school I go to my music class, so I get home a bit
+                <b><u>late</u>.</b></p>
+
+            <p><b>Mark distribution:</b></p>
+
+            <p>For writing five sentences by using five adverbs; (0.5 × 5) = 2.5 marks.</p>
+
+            <p style="text-align: justify;"><strong>[N.B:</strong> 0.5 mark will be deducted for two or more spelling
+                mistake.]</p>
+
+        </div>
+
+    </div>
+</div>
+<div class="row questionBlock">
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 8</span></div>
+                <div class="questionText" style="display: block;">
+                    <table border="0" cellpadding="1" cellspacing="1" style="width: 100%;">
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <p>Write a paragraph on ‘<b>A SUDDEN PICNIC’</b> by using the following adverbs:</p>
+
+                                    <p>Happily, quickly, very, brightly, patiently.</p>
+                                </td>
+                                <td style="vertical-align: bottom; text-align: right;">২.৫</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+        </div>
+        <div class="row solveText" style=" display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4; ">
+            <p style="text-align: center;"><b><u>A Sudden Picnic</u></b></p>
+
+            <p style="text-align: justify;">It was a beautiful day with the sun shining <u>brightly</u>. I excitedly
+                phoned my friends asking them to come over for a picnic. I <u>happily</u> drove into town to buy some
+                food and drink. When I got to town, I was <u>very</u> surprised at how busy it was. After I had finished
+                shopping, I threw the bags into the boat <u>quickly</u>. Carefully, I drove into the driveway and I
+                smiled happily because I saw my friends sitting in the garden waiting for me <u>patiently</u>. Later we
+                had a wonderful picnic together.</p>
+
+            <p><strong>Mark distribution:</strong></p>
+
+            <p>For writing five sentences by using five adverbs; (0.5 × 5) = 2.5 marks.</p>
+
+            <p style="text-align: justify;"><strong>[N.B:</strong> 0.5 mark will be deducted for two or more spelling
+                mistake.]</p>
+
+        </div>
+
+    </div>
+</div>
+
+<div class="row" style="margin-top:20px;">
+    <h2>Bangla (8)</h2>
+</div>
+<div class="row questionBlock">
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 9</span></div>
+                <div class="questionText" style="display: block;">
+                    <table border="0" cellpadding="1" cellspacing="1" style="width: 100%;">
+                        <tbody>
+                            <tr>
+                                <td>নিচের অনুচ্ছেদটি পড় এবং অশুদ্ধ বানানগুলো খুঁজে শব্দগুলোর শুদ্ধরূপ লিখ।<br>
+                                    ইরফান সাহেব তার কার্য্যালয়ে বসে গীতাঞ্জলী পড়ছে। হঠাৎ করে তার ভ্রাতুস্পুত্র এসে বললো,
+                                    “চাচা কাল আমাদের স্কুলে পুরষ্কার বিতরনি অনুষ্ঠান হবে। আপনি যাবেন কিন্তু।”</td>
+                                <td style="vertical-align: bottom; text-align: right;">২.৫</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+        </div>
+        <div class="row solveText" style=" display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4; ">
+            <p>ইরফান সাহেব তার <strong>কার্যালয়ে</strong> বসে <strong>গীতাঞ্জলি</strong> পড়ছে। হঠাৎ করে তার
+                <strong>ভ্রাতুষ্পুত্র</strong> এসে বললো, “চাচা কাল আমাদের স্কুলে <strong>পুরস্কার বিতরণী</strong>
+                অনুষ্ঠান হবে। আপনি যাবেন কিন্তু।”<br>
+                <strong>নম্বর বণ্টনঃ</strong><br>
+                ৫টি শব্দের শুদ্ধরূপ লিখলে (০.৫&nbsp;<span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-66-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo>&amp;#x00D7;</mo></math>" role="presentation">
+                        <nobr aria-hidden="true"><span class="math" id="MathJax-Span-1193" style="width: 0.822em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.658em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.355em, 1000.49em, 2.092em, -999.998em); top: -1.965em; left: 0em;"><span class="mrow" id="MathJax-Span-1194"><span class="mo" id="MathJax-Span-1195" style="font-family: MathJax_Main;">×</span></span><span style="display: inline-block; width: 0px; height: 1.969em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.048em; border-left: 0px solid; width: 0px; height: 0.703em;"></span></span>
+                        </nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML">
+                                <mo>×</mo>
+                            </math></span>
+                    </span>
+                    <script type="math/tex" id="MathJax-Element-66">\times</script>
+                </span> ৫) = ২.৫ নম্বর।
+            </p>
+
+        </div>
+
+    </div>
+</div>
+<div class="row questionBlock">
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 10</span></div>
+                <div class="questionText" style="display: block;">
+                    <table border="0" cellpadding="1" cellspacing="1" style="width: 100%;">
+                        <tbody>
+                            <tr>
+                                <td>নিচের অনুচ্ছেদটি পড় এবং অশুদ্ধ বানানগুলো খুঁজে শব্দগুলোর শুদ্ধরূপ লিখ।<br>
+                                    মুখ্যলোকটি হাসপাতালে গিয়ে যক্ষা রোগীর মুমুর্ষ অবস্থা দেখে ভয় পেয়ে গেল। কিছুক্ষন পর
+                                    ডা: শ্রীমতী রোগীর যন্ত্রনা দূর করার জন্য রসায়ণের গল্প আরম্ভ করল।</td>
+                                <td style="vertical-align: bottom; text-align: right;">২.৫</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+        </div>
+        <div class="row solveText" style=" display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4; ">
+            <p>মুখ্যলোকটি হাসপাতালে গিয়ে <strong>যক্ষ্মা</strong> রোগীর <strong>মুমূর্ষ</strong> অবস্থা দেখে ভয় পেয়ে
+                গেল। <strong>কিছুক্ষণ</strong> পর ডা: শ্রীমতী রোগীর <strong>যন্ত্রণা</strong> দূর করার জন্য
+                <strong>রসায়নের</strong> গল্প আরম্ভ করল।<br>
+                <strong>নম্বর বণ্টনঃ</strong><br>
+                ৫টি শব্দের শুদ্ধরূপ লিখলে (০.৫&nbsp;<span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-60-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo>&amp;#x00D7;</mo></math>" role="presentation">
+                        <nobr aria-hidden="true"><span class="math" id="MathJax-Span-1243" style="width: 0.822em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.658em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.355em, 1000.49em, 2.092em, -999.998em); top: -1.965em; left: 0em;"><span class="mrow" id="MathJax-Span-1244"><span class="mo" id="MathJax-Span-1245" style="font-family: MathJax_Main;">×</span></span><span style="display: inline-block; width: 0px; height: 1.969em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.048em; border-left: 0px solid; width: 0px; height: 0.703em;"></span></span>
+                        </nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML">
+                                <mo>×</mo>
+                            </math></span>
+                    </span>
+                    <script type="math/tex" id="MathJax-Element-60">\times</script>
+                </span> ৫) = ২.৫ নম্বর।
+            </p>
+
+        </div>
+
+    </div>
+</div>
+<div class="row questionBlock">
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 11</span></div>
+                <div class="questionText" style="display: block;">
+                    <table border="0" cellpadding="1" cellspacing="1" style="width: 100%;">
+                        <tbody>
+                            <tr>
+                                <td>নিচের শব্দগুলোর সমার্থক শব্দ লিখঃ (২টি করে)<br>
+                                    অশ্ব, ইচ্ছা, বৃক্ষ, নারী, বিফল।</td>
+                                <td style="vertical-align: bottom; text-align: right;">২.৫</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+        </div>
+        <div class="row solveText" style=" display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4; ">
+            <p style="text-align: justify;"><strong>অশ্ব</strong> - ঘোড়া, ঘোটক, তুরগ, বাজী, হয়, বাহ, তুরঙ্গম, সৈন্ধব,
+                বাহনশ্রেষ্ঠ,&nbsp;<br>
+                মরুদ্রথ, ঘোটকী, তুরঙ্গ, বামী, টাঙ্গন, বড়বা, হ্রেষী।<br>
+                <strong>ইচ্ছা</strong>- আকাঙ্কা, অভিলাষ, অভিপ্রায়, অভিরুচি, সাধ, আশা, বাসনা, প্রত্যাশা, স্পৃহা, কামনা,
+                প্রবৃত্তি, মনোরথ, ঈপ্সা, অভীপ্সা, আশা, আশ, এষণা, প্রার্থনা, চাওয়া, মনোবাসনা, মনস্কাম, মনস্কামনা।<br>
+                <strong>বৃক্ষ</strong>- পাদপ, গাছ, তরু, বিটপী, দ্রুম, মহিরুহ, শাখী, শিখরী, উদ্ভিদ, অটবি, পর্ণী, গাছপালা,
+                পল্লবী।<br>
+                <strong>নারী -</strong> রমণী, বনিতা, ললনা, পত্মী, রামা, বামা, অবলা, মহিলা, স্ত্রী, মেয়ে, মেয়েমানুষ,
+                মেয়েছেলে, অঙ্গনা, মানবী, মানবিকা, কামিনী, আওরত, জেনানা, যোষিৎ, যোষিতা, যোষা, জনি, বালা, প্রমদাজন,
+                ভামিনী, শর্বরী, প্রতীপদর্শিনী, স্ত্রীলোক।<br>
+                <strong>বিফল</strong> - ফলহীন, অসম্পূর্ণ, অসমর্থ, অচল।<br>
+                <strong>নম্বর বণ্টনঃ</strong><br>
+                পাঁচটি শব্দের কমপক্ষে ২টি করে সমার্থক শব্দ লিখলে (০.৫ <span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-61-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo>&amp;#x00D7;</mo></math>" role="presentation">
+                        <nobr aria-hidden="true"><span class="math" id="MathJax-Span-1246" style="width: 0.822em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.658em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.355em, 1000.49em, 2.092em, -999.998em); top: -1.965em; left: 0em;"><span class="mrow" id="MathJax-Span-1247"><span class="mo" id="MathJax-Span-1248" style="font-family: MathJax_Main;">×</span></span><span style="display: inline-block; width: 0px; height: 1.969em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.048em; border-left: 0px solid; width: 0px; height: 0.703em;"></span></span>
+                        </nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML">
+                                <mo>×</mo>
+                            </math></span>
+                    </span>
+                    <script type="math/tex" id="MathJax-Element-61">\times </script>
+                </span>&nbsp;৫) = ২.৫ নম্বর।
+            </p>
+
+        </div>
+
+    </div>
+</div>
+<div class="row questionBlock">
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 12</span></div>
+                <div class="questionText" style="display: block;">
+                    <table border="0" cellpadding="1" cellspacing="1" style="width: 100%;">
+                        <tbody>
+                            <tr>
+                                <td>নিচের শব্দগুলোর সমার্থক শব্দ লিখ: (২টি করে)<br>
+                                    ময়ূর, উত্থান, যশ, কন্যা, শিক্ষণ।</td>
+                                <td style="vertical-align: bottom; text-align: right;">২.৫</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+        </div>
+        <div class="row solveText" style=" display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4; ">
+            <p>ময়ূর - কেকী, শিখী, কলাপী, বর্হী, শিখণ্ডী, বর্হিণ।<br>
+                উত্থান- উন্নতি, অভ্যুদয়, আবির্ভাব, বিদ্রোহ, ওঠা, উত্থিতি, উঠা, উদ্&zwnj;গম, উদ্&zwnj;গতি।<br>
+                যশ- কীর্তি, খ্যাতি, প্রথিতযশ, যশোমণ্ডিত, যশোগাথা, প্রশংসা, প্রসিদ্ধ, বিশ্রুতি, সুনাম, নাম, নামডাক।<br>
+                কন্যা - আত্মজা, বলা, মেয়ে, নন্দিনী, তনয়া, দুহিতা, আত্মসম্ভবা, পুত্রিকা, দারিকা, তনুজা, মাইয়া, সুতা,
+                দুলালি, পুত্রী, ঝি, বেটি, ঝিউড়ি, ঝিয়ারি।<br>
+                শিক্ষণ - অধ্যয়ন, শিক্ষা, অধ্যাপন, উপদেশ, তালিম, শিক্ষান, বিদ্যাদান, শেখানো।<br>
+                <strong>নম্বর বণ্টনঃ</strong><br>
+                পাঁচটি শব্দের কমপক্ষে ২টি করে সমার্থক শব্দ লিখলে (০.৫&nbsp;<span class="math-tex"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-67-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo>&amp;#x00D7;</mo></math>" role="presentation">
+                        <nobr aria-hidden="true"><span class="math" id="MathJax-Span-1196" style="width: 0.822em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.658em; height: 0px; font-size: 122%;"><span style="position: absolute; clip: rect(1.355em, 1000.49em, 2.092em, -999.998em); top: -1.965em; left: 0em;"><span class="mrow" id="MathJax-Span-1197"><span class="mo" id="MathJax-Span-1198" style="font-family: MathJax_Main;">×</span></span><span style="display: inline-block; width: 0px; height: 1.969em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.048em; border-left: 0px solid; width: 0px; height: 0.703em;"></span></span>
+                        </nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML">
+                                <mo>×</mo>
+                            </math></span>
+                    </span>
+                    <script type="math/tex" id="MathJax-Element-67">\times</script>
+                </span> ৫) = ২.৫ নম্বর।
+            </p>
+
+        </div>
+
+    </div>
+</div>
+<div class="row questionBlock">
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 13</span></div>
+                <div class="questionText" style="display: block;">
+                    <table border="0" cellpadding="1" cellspacing="1" style="width: 100%;">
+                        <tbody>
+                            <tr>
+                                <td>“ঠাঁই নাই, ঠাঁই নাই- ছোটো সে তরী” বলতে কী বোঝানো হয়েছে?</td>
+                                <td style="vertical-align: bottom; text-align: right;">২.৫</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+        </div>
+        <div class="row solveText" style=" display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4; ">
+            <p style="text-align: justify;">প্রশ্নোক্ত চরণটিতে মহাকালের প্রতীক সোনার তরীতে মানুষের কর্মের স্থান হলেও
+                সেখানে ব্যক্তিমানুষের যে স্থান হয় না, সে বিষয়টিই ফুটে উঠেছে।&nbsp;<br>
+                ব্যক্তিমানুষের মৃত্যু অনিবার্য; তাকে রোধ করা সম্ভব নয়। কিন্তু ব্যক্তির কি কর্মফল বা অর্জনকে মৃত্যু
+                স্পর্শ করতে পারে না। আর তাই সোনার তরীতে কেবল কৃষকের সোনার ধানই ঠাঁই পায়, কিন্তু ব্যক্তিকৃষককে অপূর্ণতার
+                বেদনা নিয়ে অপেক্ষা করতে হয় অনিবার্যভাবে মহাকালের স্রোতে বিলীন হওয়ার জন্য। মানুষ তার কর্মকে রেখে যায়,
+                মানুষের স্থান হয় না এ নশ্বর পৃথিবীতে। মহাকালের অনন্ত প্রবাহে কৃষকরূপী কবির সোনার ধান তথা সৃষ্টি কর্মের
+                ঠাঁই হলেও, ঠাঁই হয় না কর্মীর। প্রশ্নোক্ত চরণটিতে ঠাঁই নাই কথাটির মাধ্যমে জীবনের এই অমোঘ সত্যটিকেই তুলে
+                ধরা হয়েছে।<br>
+                <strong>নম্বর বণ্টনঃ</strong><br>
+                সোনার তরীতে মানুষের কর্মের স্থান হলেও সেখানে ব্যক্তিমানুষের যে স্থান হয় না লেখলে ০.৫ নম্বর।<br>
+                মানুষ তার কর্মকে রেখে যায়, মানুষের স্থান হয় না এ নশ্বর পৃথিবীতে লেখলে ০১ নম্বর।<br>
+                মহাকালের অনন্ত প্রবাহে কৃষকরূপী কবির সোনার ধান তথা সৃষ্টি কর্মের ঠাঁই হলেও, ঠাঁই হয় না কর্মীর লেখলে ০১
+                নম্বর।<br>
+                <strong>[বি.দ্রঃ</strong> একটি বা দুইটি বানান ভুল করলে ০.৫ নম্বর, তিন বা ততোধিক বানান ভুল করলে ০১ নম্বর
+                কাটা যাবে। ]
+            </p>
+
+        </div>
+
+    </div>
+</div>
+<div class="row questionBlock">
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 14</span></div>
+                <div class="questionText" style="display: block;">
+                    <table border="0" cellpadding="1" cellspacing="1" style="width: 100%;">
+                        <tbody>
+                            <tr>
+                                <td>“কূলে একা বসে আছি, নাহি ভরসা” কবি কী বোঝাতে চেয়েছেন?</td>
+                                <td style="vertical-align: bottom; text-align: right;">২.৫</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+        </div>
+        <div class="row solveText" style=" display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4; ">
+            <p style="text-align: justify;">পঙ্কিক্তটিতে কৃষক তথা শিল্পস্রষ্টা কবির উৎকণ্ঠা প্রকাশিত হয়েছে।&nbsp;<br>
+                বর্ষা আর ক্ষুরধারা নদীর বিরূপতা সোনার ধান নিয়ে অপেক্ষারত কৃষকের মনে ঘনঘোর আশঙ্কার সৃষ্টি করেছে। দ্বীপের
+                মতো ছোটো এক ধানক্ষেতে কৃষক তথা কবি জীবনের সমগ্র সঞ্চয় নিয়ে উপস্থিত মহাকালের গর্ভে তুলে দেওয়ার জন্য।
+                কিন্তু বর্ষা আর নদীর করাল গ্রাস যেকোনো সময় ভাসিয়ে নিতে পারে সব। নিঃসঙ্গ, একাকী অবস্থায় কবি তাই কৃষকের
+                অন্তরালে নিজের জীবনদর্শন তুলে ধরেছেন।<br>
+                <strong>নম্বর বণ্টনঃ</strong><br>
+                পঙ্কিক্তটিতে কৃষক তথা শিল্পস্রষ্টা কবির উৎকণ্ঠা প্রকাশিত হয়েছে লেখলে ০.৫ নম্বর।<br>
+                দ্বীপের মতো ছোটো এক ধানক্ষেতে কৃষক তথা কবি জীবনের সমগ্র সঞ্চয় নিয়ে উপস্থিত মহাকালের গর্ভে তুলে দেওয়ার
+                জন্য লেখলে ০১ নম্বর।<br>
+                কিন্তু বর্ষা আর নদীর করাল গ্রাস যেকোনো সময় ভাসিয়ে নিতে পারে সব লেখলে ০১ নম্বর।<br>
+                <strong>[বি.দ্রঃ</strong> একটি বা দুইটি বানান ভুল করলে ০.৫ নম্বর, তিন বা ততোধিক বানান ভুল করলে ০১ নম্বর
+                কাটা যাবে। ]&nbsp;
+            </p>
+
+        </div>
+
+    </div>
+</div>
+<div class="row questionBlock">
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 15</span></div>
+                <div class="questionText" style="display: block;">
+                    <table border="0" cellpadding="1" cellspacing="1" style="width: 100%;">
+                        <tbody>
+                            <tr>
+                                <td>উচ্চারণের স্থান অনুসারে ব্যঞ্জনবর্ণ কয় প্রকার ও কি কি?</td>
+                                <td style="vertical-align: bottom; text-align: right;">২.৫</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+        </div>
+        <div class="row solveText" style=" display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4; ">
+            <p>উচ্চারণের স্থানের নাম অনুসারে ব্যঞ্জনবর্ণগুলোকে পাঁচ ভাগে ভাগ করা হয়।<br>
+                <strong>যথা:-</strong>&nbsp;<br>
+                ১। জিহ্বামূলীয় বা কন্ঠ্য বর্ণ: ক, খ, গ, ঘ, ঙ<br>
+                ২। তালব্য বর্ণ: চ, ছ, জ, ঝ, ঞ<br>
+                ৩। মূর্ধন্য বা পশ্চাৎ দন্তমূলীয় বর্ণ: ট, ঠ, ড, ঢ, ণ<br>
+                ৪। দন্ত্য বর্ণ: ত, থ, দ, ধ, ন<br>
+                ৫। ওষ্ঠ্য বর্ণ: প, ফ, ব, ভ, ম<br>
+                <strong>নম্বর বণ্টনঃ</strong><br>
+                পাঁচ ভাগে লেখলে ০.৫ নম্বর।<br>
+                পাঁচ ভাগের নাম লেখলে ০২ নম্বর। [যেকোনো একটি না লেখলে বা ভুল লেখলে ০.৫ নম্বর কর্তন হবে।]<br>
+                <strong>[বি.দ্রঃ</strong> একটি বা দুইটি বানান ভুল করলে ০.৫ নম্বর, তিন বা ততোধিক বানান ভুল করলে ০১ নম্বর
+                কাটা যাবে। ]
+            </p>
+
+        </div>
+
+    </div>
+</div>
+<div class="row questionBlock">
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 16</span></div>
+                <div class="questionText" style="display: block;">
+                    <table border="0" cellpadding="1" cellspacing="1" style="width: 100%;">
+                        <tbody>
+                            <tr>
+                                <td>যৌগিক স্বরধ্বনি কাকে বলে? যৌগিক স্বরধ্বনি কয়টি ও কি কি?&nbsp;</td>
+                                <td style="vertical-align: bottom; text-align: right;">২.৫</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+        </div>
+        <div class="row solveText" style=" display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4; ">
+            <p style="text-align: justify;">পাশাপাশি দুটি স্বরধ্বনি থাকলে দ্রুত উচ্চারণের সময় তা একটি সংযুক্ত স্বরধ্বনি
+                রূপে উচ্চারিত হয়। এই রূপে একসঙ্গে উচ্চারিত দুটি মিলিত স্বরধ্বনিকে বলা হয় যৌগিক স্বরধ্বনি। এই স্বরধ্বনিকে
+                দ্বিস্বর/যুগ্মস্বর/সন্ধিস্বর বা সন্ধ্যক্ষর বলে। বাংলা বর্ণমালায় যৌগিক স্বরধ্বনির সংখ্যা দুইটি যথা: ঐ,
+                ঔ।<br>
+                <strong>নম্বর বণ্টনঃ</strong><br>
+                যৌগিক স্বরধ্বনি এর সংজ্ঞা লেখলে ০১ নম্বর।<br>
+                যৌগিক স্বরধ্বনির সংখ্যা দুইটি লেখলে ০.৫ নম্বর।<br>
+                যৌগিক স্বরধ্বনি দুইটির নাম লেখলে ০১ নম্বর।<br>
+                <strong>[বি.দ্রঃ</strong> একটি বা দুইটি বানান ভুল করলে ০.৫ নম্বর, তিন বা ততোধিক বানান ভুল করলে ০১ নম্বর
+                কাটা যাবে। ]
+            </p>
+
+        </div>
+
+    </div>
+</div>
+</div>
+
+    
+</div>

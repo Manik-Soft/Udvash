@@ -1,0 +1,3361 @@
+<div class="TakeExamWrapper">
+    <div class="TakeExamHeader">
+        <h2 style="font-size: 30px;">Engineering Admission Program 2022</h2>
+        <h3>Engineering Exam Pack + All Materials</h3>
+        <h3>Varsity Weekly Bangla + English MCQ Exam-02</h3>
+        <h2 style="font-size: 25px;">[ Quantity (50) : E,B - 25 ]</h2><br>
+
+
+    <h2 style="font-size: 25px;">17 min [ Per Each Question - 20 sec ]</h2></div>
+            <div class="TakeExamBody">
+<div class="row" style="margin-top:20px;">
+    <h2>English (25)</h2>
+</div>
+<div class="row questionBlock">
+
+<div class="row question">
+    <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+        <div class="row">
+            <div class="serial"><span>Question 1</span></div>
+            <div class="questionText" style="display: block;">
+                <p>"The child sat mute in the corner of the park." Here the word 'mute' is a/an -</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="row questionOptions">
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">A</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Noun</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">B</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Adjective</p>
+</label>
+                    <span class="fas fa-check"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">C</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Adverb</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" style="font-weight:bold;">D</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Verb</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row questionBlock">
+
+<div class="row question">
+    <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+        <div class="row">
+            <div class="serial"><span>Question 2</span></div>
+            <div class="questionText" style="display: block;">
+                <p>The market was closed, so we waited ____ until it opened.</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="row questionOptions">
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">A</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>near</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">B</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>nearly</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">C</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>nearby</p>
+</label>
+                    <span class="fas fa-check"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" style="font-weight:bold;">D</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>nearbyly</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row questionBlock">
+
+<div class="row question">
+    <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+        <div class="row">
+            <div class="serial"><span>Question 3</span></div>
+            <div class="questionText" style="display: block;">
+                <p>Sleeplessness causes problems with our ____ clock.</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="row questionOptions">
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">A</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>botanical</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">B</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>biological</p>
+</label>
+                    <span class="fas fa-check"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">C</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>natural</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" style="font-weight:bold;">D</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>rhythmical</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row questionBlock">
+
+<div class="row question">
+    <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+        <div class="row">
+            <div class="serial"><span>Question 4</span></div>
+            <div class="questionText" style="display: block;">
+                <p>Of the two girls, Marry is ____.</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="row questionOptions">
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">A</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>the prettiest</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">B</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>prettiest</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">C</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>prettier</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" style="font-weight:bold;">D</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>the prettier</p>
+</label>
+                    <span class="fas fa-check"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row questionBlock">
+
+<div class="row question">
+    <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+        <div class="row">
+            <div class="serial"><span>Question 5</span></div>
+            <div class="questionText" style="display: block;">
+                <p>The adjective of the word 'Heart' is -</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="row questionOptions">
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">A</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Hurt</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">B</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Heartening</p>
+</label>
+                    <span class="fas fa-check"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">C</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Hearten</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" style="font-weight:bold;">D</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Heartfully</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row questionBlock">
+
+<div class="row question">
+    <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+        <div class="row">
+            <div class="serial"><span>Question 6</span></div>
+            <div class="questionText" style="display: block;">
+                <p>I will reach home by_________ night.</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="row questionOptions">
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">A</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>a</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">B</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>an</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">C</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>the</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" style="font-weight:bold;">D</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>no article</p>
+</label>
+                    <span class="fas fa-check"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row questionBlock">
+
+<div class="row question">
+    <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+        <div class="row">
+            <div class="serial"><span>Question 7</span></div>
+            <div class="questionText" style="display: block;">
+                <p>The synonym of 'Discrepancy' is-</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="row questionOptions">
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">A</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Discreet</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">B</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Discursive</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">C</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Disagreement</p>
+</label>
+                    <span class="fas fa-check"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" style="font-weight:bold;">D</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Discourse</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+            <span style="color: black !important; font-weight: bold;">Solution:</span>
+            <br>
+            <span style="color: black !important;"><p>Discrepancy-&nbsp;পার্থক্য, বৈষম্য, অনৈক্য, অমিল (বক্তব্যে বা হিসাবে);&nbsp;</p>
+
+<p>Disagreement-&nbsp;অমিল, ভিন্নমত, মতভেদ; Discreet- সতর্ক, বিচক্ষণ, কৌশলী;</p>
+
+<p>Discursive- অপ্রাসঙ্গিক, অবান্তর; Discourse- বক্তৃতা, নিবন্ধ, ধর্মোপদেশ।</p>
+</span>
+        </div>
+</div>
+</div>
+<div class="row questionBlock">
+
+<div class="row question">
+    <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+        <div class="row">
+            <div class="serial"><span>Question 8</span></div>
+            <div class="questionText" style="display: block;">
+                <p>Antonym of the word 'Exploit ' is -</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="row questionOptions">
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">A</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Neglect</p>
+</label>
+                    <span class="fas fa-check"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">B</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Fruitful</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">C</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Valid</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" style="font-weight:bold;">D</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Economical</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row questionBlock">
+
+<div class="row question">
+    <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+        <div class="row">
+            <div class="serial"><span>Question 9</span></div>
+            <div class="questionText" style="display: block;">
+                <p>I couldn't sleep last night ____ very tired.</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="row questionOptions">
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">A</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>because of</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">B</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>despite of</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">C</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>despite</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" style="font-weight:bold;">D</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>because I was</p>
+</label>
+                    <span class="fas fa-check"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+            <span style="color: black !important; font-weight: bold;">Solution:</span>
+            <br>
+            <span style="color: black !important;"><p>Because of, despite&nbsp;-এর পর&nbsp;noun phrase&nbsp;বসে কিন্তু&nbsp;because&nbsp;-এর পর&nbsp;clause&nbsp;বসে। সুতরাং সঠিক&nbsp;expression&nbsp;হলো&nbsp;because I was&nbsp;</p>
+</span>
+        </div>
+</div>
+</div>
+<div class="row questionBlock">
+
+<div class="row question">
+    <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+        <div class="row">
+            <div class="serial"><span>Question 10</span></div>
+            <div class="questionText" style="display: block;">
+                <p>When their body size is considered, mammals and birds have much larger brain than ____.</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="row questionOptions">
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">A</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>other vertebrates do</p>
+</label>
+                    <span class="fas fa-check"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">B</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>that other vertebrates have</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">C</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>are other vertebrates</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" style="font-weight:bold;">D</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>other are vertebrates</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row questionBlock">
+
+<div class="row question">
+    <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+        <div class="row">
+            <div class="serial"><span>Question 11</span></div>
+            <div class="questionText" style="display: block;">
+                <p>What is the feminine gender for ‘Stag’?</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="row questionOptions">
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">A</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Abbess</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">B</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Hind</p>
+</label>
+                    <span class="fas fa-check"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">C</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Vixen</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" style="font-weight:bold;">D</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Doe</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row questionBlock">
+
+<div class="row question">
+    <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+        <div class="row">
+            <div class="serial"><span>Question 12</span></div>
+            <div class="questionText" style="display: block;">
+                <p>What is the plural form of the word ‘Matrix’?</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="row questionOptions">
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">A</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Matrices</p>
+</label>
+                    <span class="fas fa-check"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">B</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Matrixes</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">C</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Matrixis</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" style="font-weight:bold;">D</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Matrixize</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row questionBlock">
+
+<div class="row question">
+    <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+        <div class="row">
+            <div class="serial"><span>Question 13</span></div>
+            <div class="questionText" style="display: block;">
+                <p>Which of the following sentence is correct?</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="row questionOptions">
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">A</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Which of the following sentence is correct?</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">B</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>He likes listening to music at night.</p>
+</label>
+                    <span class="fas fa-check"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">C</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>We had great time on the top of mountain.</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" style="font-weight:bold;">D</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Learning the French isn’t easy.</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row questionBlock">
+
+<div class="row question">
+    <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+        <div class="row">
+            <div class="serial"><span>Question 14</span></div>
+            <div class="questionText" style="display: block;">
+                <p>The orphan boy died ________cholera.</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="row questionOptions">
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">A</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>to</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">B</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>from</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">C</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>by</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" style="font-weight:bold;">D</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>of</p>
+</label>
+                    <span class="fas fa-check"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row questionBlock">
+
+<div class="row question">
+    <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+        <div class="row">
+            <div class="serial"><span>Question 15</span></div>
+            <div class="questionText" style="display: block;">
+                <p>Mr. Amin reached here much ahead ____ the scheduled time.</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="row questionOptions">
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">A</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>beside</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">B</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>for</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">C</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>of</p>
+</label>
+                    <span class="fas fa-check"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" style="font-weight:bold;">D</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>with</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row questionBlock">
+
+<div class="row question">
+    <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+        <div class="row">
+            <div class="serial"><span>Question 16</span></div>
+            <div class="questionText" style="display: block;">
+                <p>She speaks _________she were in the moon.</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="row questionOptions">
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">A</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>if</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">B</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>like</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">C</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>as if</p>
+</label>
+                    <span class="fas fa-check"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" style="font-weight:bold;">D</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>whether</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row questionBlock">
+
+<div class="row question">
+    <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+        <div class="row">
+            <div class="serial"><span>Question 17</span></div>
+            <div class="questionText" style="display: block;">
+                <p>Which is the antonym of 'Animosity'?</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="row questionOptions">
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">A</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Odium</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">B</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Hostility</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">C</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Love</p>
+</label>
+                    <span class="fas fa-check"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" style="font-weight:bold;">D</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Affectation</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row questionBlock">
+
+<div class="row question">
+    <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+        <div class="row">
+            <div class="serial"><span>Question 18</span></div>
+            <div class="questionText" style="display: block;">
+                <p>The antonym of 'Divulge' is-</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="row questionOptions">
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">A</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Reveal</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">B</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Confess</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">C</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Disclose</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" style="font-weight:bold;">D</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Conceal</p>
+</label>
+                    <span class="fas fa-check"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row questionBlock">
+
+<div class="row question">
+    <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+        <div class="row">
+            <div class="serial"><span>Question 19</span></div>
+            <div class="questionText" style="display: block;">
+                <p>Which of the following is a singular noun?</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="row questionOptions">
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">A</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Premium</p>
+</label>
+                    <span class="fas fa-check"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">B</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Phenomena</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">C</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Syllabi</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" style="font-weight:bold;">D</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Media</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row questionBlock">
+
+<div class="row question">
+    <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+        <div class="row">
+            <div class="serial"><span>Question 20</span></div>
+            <div class="questionText" style="display: block;">
+                <p>Choose the correct sentence.</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="row questionOptions">
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">A</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>The train is running in time.</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">B</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>The train is running with time.</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">C</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>The train is running on time.</p>
+</label>
+                    <span class="fas fa-check"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" style="font-weight:bold;">D</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>The train is running to me.</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row questionBlock">
+
+<div class="row question">
+    <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+        <div class="row">
+            <div class="serial"><span>Question 21</span></div>
+            <div class="questionText" style="display: block;">
+                <p>Meaning of 'Conjecture' is related to-</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="row questionOptions">
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">A</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Guidance</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">B</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Conjunction</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">C</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Continuity</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" style="font-weight:bold;">D</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Guess</p>
+</label>
+                    <span class="fas fa-check"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row questionBlock">
+
+<div class="row question">
+    <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+        <div class="row">
+            <div class="serial"><span>Question 22</span></div>
+            <div class="questionText" style="display: block;">
+                <p>Plural form of the word ‘Hypothesis’.</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="row questionOptions">
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">A</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Hypothesies</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">B</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Hypothecia</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">C</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Hypotheses</p>
+</label>
+                    <span class="fas fa-check"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" style="font-weight:bold;">D</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Hypothesiz</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row questionBlock">
+
+<div class="row question">
+    <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+        <div class="row">
+            <div class="serial"><span>Question 23</span></div>
+            <div class="questionText" style="display: block;">
+                <p>Singular form of the word ‘Antennae’-</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="row questionOptions">
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">A</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Antenna</p>
+</label>
+                    <span class="fas fa-check"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">B</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Antenne</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">C</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Antennam</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" style="font-weight:bold;">D</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Antenni</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row questionBlock">
+
+<div class="row question">
+    <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+        <div class="row">
+            <div class="serial"><span>Question 24</span></div>
+            <div class="questionText" style="display: block;">
+                <p>What does ‘Augment’ mean?</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="row questionOptions">
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">A</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Enhance</p>
+</label>
+                    <span class="fas fa-check"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">B</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Decrease</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">C</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>Dethrone</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" style="font-weight:bold;">D</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>None</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row questionBlock">
+
+<div class="row question">
+    <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+        <div class="row">
+            <div class="serial"><span>Question 25</span></div>
+            <div class="questionText" style="display: block;">
+                <p>His words conform _____his work.</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="row questionOptions">
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">A</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>to</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">B</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>in</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">C</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>upon</p>
+</label>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 row questionOption">
+            <div class="input-group" style="align-items: center;">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" style="font-weight:bold;">D</span>
+                </div>
+                <div class="input-group-append questionTable">
+                    <label style="margin-left:5px;"><p>with</p>
+</label>
+                    <span class="fas fa-check"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row" style="margin-top:20px;">
+        <h2>Bangla (25)</h2>
+    </div>
+<div class="row questionBlock">
+
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 26</span></div>
+                <div class="questionText" style="display: block;">
+                    <p>‘সোনার তরী’ কবিতার মূল তাৎপর্য কী?</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row questionOptions">
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">A</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>মহাকাল ও মানুষ</p>
+</label>
+                        <span class="fas fa-check"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">B</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>কৃষক ও ধান</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">C</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>প্রকৃতি ও জীবন</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" style="font-weight:bold;">D</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>নদী ও নৌকা</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                <span style="color: black !important; font-weight: bold;">Solution:</span>
+                <br>
+                <span style="color: black !important;"><p>জেনে রাখো: ‘সোনার তরী’ কবিতায় নিবিড়ভাবে মিশে গেছে কবির জীবনদর্শন। মহাকালের স্রোতে জীবন যৌবন ভেসে যায়। কিন্তু বেঁচে থাকে মানুুষেরই সৃষ্ট সোনার ফসল।</p>
+</span>
+            </div>
+    </div>
+</div>
+<div class="row questionBlock">
+
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 27</span></div>
+                <div class="questionText" style="display: block;">
+                    <p>কবিতায় ‘ক্ষুরধারা’ শব্দটি কোন অর্থে ব্যবহৃত?</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row questionOptions">
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">A</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>প্রবল স্রোত</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">B</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>ক্ষুরের মতো দেখতে</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">C</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>ধারালো ক্ষুর বিশেষ</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" style="font-weight:bold;">D</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>ক্ষুরের মতো ধারালো স্রোত</p>
+</label>
+                        <span class="fas fa-check"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                <span style="color: black !important; font-weight: bold;">Solution:</span>
+                <br>
+                <span style="color: black !important;"><p>জেনে রাখো: ক্ষুরধারা শব্দের অর্থ ক্ষুরের মতো ধারালো যে প্রবাহ বা স্রোত।</p>
+</span>
+            </div>
+    </div>
+</div>
+<div class="row questionBlock">
+
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 28</span></div>
+                <div class="questionText" style="display: block;">
+                    <p>‘সোনার তরী’ কবিতায় ‘মাঝি’ দ্বারা কাকে বোঝানো হয়েছে?</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row questionOptions">
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">A</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>নিঃসঙ্গ জীবন</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">B</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>মহাকালের প্রতীক</p>
+</label>
+                        <span class="fas fa-check"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">C</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>অবিনশ্বর জীবন</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" style="font-weight:bold;">D</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>জাতির নেতা</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                <span style="color: black !important; font-weight: bold;">Solution:</span>
+                <br>
+                <span style="color: black !important;"><p>জেনে রাখো: ‘সোনার তরী’ একটি প্রতীকধর্মী কবিতা। এখানে মাঝি দ্বারা মহাকালকে আর ধান দ্বারা ব্যক্তির কর্মকে বোঝানো&nbsp;হয়েছে।</p>
+</span>
+            </div>
+    </div>
+</div>
+<div class="row questionBlock">
+
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 29</span></div>
+                <div class="questionText" style="display: block;">
+                    <p>রবীন্দ্রনাথের প্রথম প্রকাশিত কাব্য কোনটি?</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row questionOptions">
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">A</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>বলাকা</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">B</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>সঞ্চয়িতা</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">C</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>কবি কাহিনী</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" style="font-weight:bold;">D</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>বনফুল</p>
+</label>
+                        <span class="fas fa-check"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row questionBlock">
+
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 30</span></div>
+                <div class="questionText" style="display: block;">
+                    <p>‘সোনার তরী’ কবিতায় বাকা জল কিসের প্রতীক?</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row questionOptions">
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">A</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>বিপদের</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">B</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>অস্থিরতার</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">C</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>কালস্রোত</p>
+</label>
+                        <span class="fas fa-check"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" style="font-weight:bold;">D</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>ঢেউয়ের</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                <span style="color: black !important; font-weight: bold;">Solution:</span>
+                <br>
+                <span style="color: black !important;"><p>জেনে রাখো: কবিতার পংক্তি ‘চারি দিকে বাঁকা জল করিছে খেলা। ’ এখানে বাঁকা জল বলতে অনন্ত কালস্রোতের প্রতীককে বোঝানো হয়েছে।</p>
+</span>
+            </div>
+    </div>
+</div>
+<div class="row questionBlock">
+
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 31</span></div>
+                <div class="questionText" style="display: block;">
+                    <p>“ওগো তুমি কোথা যাও কোন বিদেশে।” এখানে ‘তুমি’ বলতে কাকে বুঝানো হয়েছে?</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row questionOptions">
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">A</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>মাঝি</p>
+</label>
+                        <span class="fas fa-check"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">B</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>কৃষক</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">C</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>তরী</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" style="font-weight:bold;">D</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>কবির কর্ম</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                <span style="color: black !important; font-weight: bold;">Solution:</span>
+                <br>
+                <span style="color: black !important;"><p>জেনে রাখো: কৃষক যখন একখানি ছোট খেতে বসেছিলো আর তার চারিদিকে মহাকাল স্বরূপী স্রোত খেলা করছিলো। তখন সে লক্ষ্য করে যে একজন মাঝি নৌকা করে এদিকে এগিয়ে আসছে। সে তখন মাঝিকে উদ্দেশ্য করে উক্ত কথাটি বলেছিলো।</p>
+</span>
+            </div>
+    </div>
+</div>
+<div class="row questionBlock">
+
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 32</span></div>
+                <div class="questionText" style="display: block;">
+                    <p>ব্যঞ্জনবর্ণের সংক্ষিপ্ত রূপ ফলা কয়টি?</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row questionOptions">
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">A</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>৪ টি</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">B</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>৬ টি</p>
+</label>
+                        <span class="fas fa-check"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">C</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>১০ টি</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" style="font-weight:bold;">D</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>৮ টি</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                <span style="color: black !important; font-weight: bold;">Solution:</span>
+                <br>
+                <span style="color: black !important;"><p>জেনে রাখো: ব্যঞ্জনবর্ণের সংক্ষিপ্ত রূপকে ফলা বলা হয়। ব্যঞ্জনবর্ণের ফলা- ৬টি। ফলা ৬টি হলো- ম-ফলা, ব-ফলা, র-ফলা, য-ফলা, ল-ফলা, ন-ফলা। স্বরবর্ণের সংক্ষিপ্ত রূপকে কার বলা হয়।</p>
+</span>
+            </div>
+    </div>
+</div>
+<div class="row questionBlock">
+
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 33</span></div>
+                <div class="questionText" style="display: block;">
+                    <p>বাংলা বর্ণমালায় স্বরবর্ণে অর্ধমাত্রা আছে কয়টি বর্ণের?</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row questionOptions">
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">A</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>৭ টি</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">B</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>১ টি</p>
+</label>
+                        <span class="fas fa-check"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">C</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>৪ টি</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" style="font-weight:bold;">D</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>৫ টি</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                <span style="color: black !important; font-weight: bold;">Solution:</span>
+                <br>
+                <span style="color: black !important;"><p>বাংলা বর্ণমালায় অর্ধমাত্রা-৮টি বর্ণে। স্বরবর্ণে অর্ধমাত্রা ১টি (ঋ) এবং ব্যঞ্জন বর্ণে অর্ধমাত্রা ৭টি (খ, গ, ণ, থ, ধ, প, শ)।</p>
+</span>
+            </div>
+    </div>
+</div>
+<div class="row questionBlock">
+
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 34</span></div>
+                <div class="questionText" style="display: block;">
+                    <p>নিচের কোনটি উচ্চ সম্মুখ ওষ্ঠাধর প্রসৃত স্বরধ্বনি?</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row questionOptions">
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">A</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>ই</p>
+</label>
+                        <span class="fas fa-check"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">B</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>এ</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">C</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>আ</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" style="font-weight:bold;">D</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>অ</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                <span style="color: black !important; font-weight: bold;">Solution:</span>
+                <br>
+                <span style="color: black !important;"><p><strong>জেনে রাখো:</strong></p>
+
+<p><img alt="" src="data:image/png;base64,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iYhoMPREoPHTn/7U9vNdu3Zha2vL/PeZM2fw7LPP4je/+Y3ZfUo8giciot6jqipisRi2trbMN3xPTU0BePhEW7w1nIiIBk9PBBoHDhyw/fzKlSsol8sAgEgkYk6PGA6HceLEiU4mkYiI2mB2drbbSSAiojbpiUBDDA63WllZMf9/dnYWpVIJwWAQq6uruHHjRkW3KiIi6j9erxehUKjbySAiojZwPdCIx+MtLXf48OGqz44dO2b7W5/Phz/84Q/s20tENADsus8eOHAAuq53ITVEROQWj2EYRtWHHg9sPm5YqVSCqqrbSphYz6uvv1esqAAAAOZJREFUvoq7d+/iueeeM/v1CiMjI1BVFcvLy9veVj/Y7nkhGkTMF4PB7r5RKpXwww8/OD71ps5jfiMiWb0yoS2BRqckEglcv36dgQbRDsZ8QdQ5zG9EJKtXJvTEGI1WOQ0iJyIiIiKi7urrJxqAe920+kE/nReiTmG+IOoc5jcikg1016mdhueFqBrzBVHnML8RkWygu04REREREVFvYqBBRERERESuY6BBRERERESuY6BBRERERESucxwMTkREREREVEutweA/anYBIiIiIiKieth1ioiIiIiIXMdAg4iIiIiIXPf/ASe9s4BwH193AAAAAElFTkSuQmCC" style="width: 400px; height: 89px;"></p>
+</span>
+            </div>
+    </div>
+</div>
+<div class="row questionBlock">
+
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 35</span></div>
+                <div class="questionText" style="display: block;">
+                    <p>ভাষার মূল উপাদান কোনটি?</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row questionOptions">
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">A</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>ধ্বনি</p>
+</label>
+                        <span class="fas fa-check"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">B</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>শব্দ</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">C</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>বাক্য</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" style="font-weight:bold;">D</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>বর্ণ</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                <span style="color: black !important; font-weight: bold;">Solution:</span>
+                <br>
+                <span style="color: black !important;"><p>জেনে রাখো: ভাষার মূল উপাদান ধ্বনি আর বাক্যের মূল উপাদান শব্দ।</p>
+</span>
+            </div>
+    </div>
+</div>
+<div class="row questionBlock">
+
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 36</span></div>
+                <div class="questionText" style="display: block;">
+                    <p>উষ্মধ্বনি কয়টি?</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row questionOptions">
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">A</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>৪টি</p>
+</label>
+                        <span class="fas fa-check"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">B</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>৫টি</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">C</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>৬টি</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" style="font-weight:bold;">D</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>৭টি</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                <span style="color: black !important; font-weight: bold;">Solution:</span>
+                <br>
+                <span style="color: black !important;"><p>জেনে রাখো: উষ্মধ্বনি উচ্চারণের সময় আমরা শ্বাস যতক্ষণ খুশি ধরে রাখতে পারি তাই এগুলোকে বলা হয় উষ্মধ্বনি । এ বর্ণগুলোকে বলা হয় উষ্মবর্ণ। উষ্মধ্বনিগুলো হচ্ছে- শ, ষ, স, হ।</p>
+</span>
+            </div>
+    </div>
+</div>
+<div class="row questionBlock">
+
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 37</span></div>
+                <div class="questionText" style="display: block;">
+                    <p>বর্গের কোন বর্ণসমূহের ধ্বনি অল্পপ্রাণ ধ্বনি?</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row questionOptions">
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">A</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>তৃতীয় ও চতুর্থ বর্ণ</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">B</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>দ্বিতীয় ও চতুর্থ বর্ণ</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">C</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>প্রথম ও দ্বিতীয় বর্ণ</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" style="font-weight:bold;">D</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>প্রথম ও তৃতীয় বর্ণ</p>
+</label>
+                        <span class="fas fa-check"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                <span style="color: black !important; font-weight: bold;">Solution:</span>
+                <br>
+                <span style="color: black !important;"><p>বর্গের প্রথম ও তৃতীয় বর্ণসমূহের ধ্বনিকে বলা হয় অল্পপ্রাণ ধ্বনি। বর্গের দ্বিতীয় এবং চতুর্থ বর্ণ বা ধ্বনিকে বলা হয় মহাপ্রাণ ধ্বনি। পঞ্চম বর্ণ হলো নাসিক্য ধ্বনি।</p>
+</span>
+            </div>
+    </div>
+</div>
+<div class="row questionBlock">
+
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 38</span></div>
+                <div class="questionText" style="display: block;">
+                    <p>কোনটি ওষ্ঠ্য ধ্বনি?</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row questionOptions">
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">A</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>ম</p>
+</label>
+                        <span class="fas fa-check"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">B</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>ঙ</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">C</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>চ</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" style="font-weight:bold;">D</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>র</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                <span style="color: black !important; font-weight: bold;">Solution:</span>
+                <br>
+                <span style="color: black !important;"><p>‘ম’ ওষ্ঠ্য ধ্বনি। এরূপ প, ফ, ব, ভ। এগুলো উচ্চারণে সময় ওষ্ঠ্যের সাথে অধরের স্পর্শ ঘটে।</p>
+</span>
+            </div>
+    </div>
+</div>
+<div class="row questionBlock">
+
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 39</span></div>
+                <div class="questionText" style="display: block;">
+                    <p>কোনগুলো দন্ত্য ধ্বনি?</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row questionOptions">
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">A</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>ট, ঠ, ড, ঢ, ণ</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">B</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>ত, থ, দ, ধ, ন</p>
+</label>
+                        <span class="fas fa-check"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">C</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>চ, ছ, জ, ঝ, ঞ</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" style="font-weight:bold;">D</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>প, ফ, ব, ভ, ম</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                <span style="color: black !important; font-weight: bold;">Solution:</span>
+                <br>
+                <span style="color: black !important;"><p>মূর্ধন্য ধ্বনি - ট, ঠ, ড, ঢ, ণ ; তালব্য ধ্বনি - চ, ছ, জ, ঝ, ঞ; ওষ্ঠ ধ্বনি- প, ফ, ব, ভ, ম</p>
+</span>
+            </div>
+    </div>
+</div>
+<div class="row questionBlock">
+
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 40</span></div>
+                <div class="questionText" style="display: block;">
+                    <p>‘বিশ্ববিদ্যালয়’ শব্দটিতে কয়টি অক্ষর আছে?</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row questionOptions">
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">A</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>৪টি</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">B</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>৫টি</p>
+</label>
+                        <span class="fas fa-check"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">C</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>৬টি</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" style="font-weight:bold;">D</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>৮টি</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                <span style="color: black !important; font-weight: bold;">Solution:</span>
+                <br>
+                <span style="color: black !important;"><p>জেনে রাখো: বিশ্&zwnj;-শো-বিদ্&zwnj;-দা-লয় (৫টি)</p>
+</span>
+            </div>
+    </div>
+</div>
+              <div class="row questionBlock">
+
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 41</span></div>
+                <div class="questionText" style="display: block;">
+                    <p>নারায়ণগঞ্জ থেকে বঙ্গবন্ধুকে নিয়ে কয়টার জাহাজে উঠেছিলো?</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row questionOptions">
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">A</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>রাত এগারোটার</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">B</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>রাত বারোটার</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">C</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>রাত সাড়ে বারোটার</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" style="font-weight:bold;">D</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>রাত একটার</p>
+</label>
+                        <span class="fas fa-check"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                <span style="color: black !important; font-weight: bold;">Solution:</span>
+                <br>
+                <span style="color: black !important;"><p><strong>জেনে রাখো:</strong> নারায়ণগঞ্জ থেকে জাহাজ ছাড়ে এগারোটায় কিন্তু জাহাজঘাটে দেরি করে যাওয়ায় এগারোটার জাহাজ ধরতে পারে না। পরে রাত একটার জাহাজে নারায়ণগঞ্জ ত্যাগ করে।</p>
+</span>
+            </div>
+    </div>
+</div>
+<div class="row questionBlock">
+
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 42</span></div>
+                <div class="questionText" style="display: block;">
+                    <p>বঙ্গবন্ধুর জেলে থাকার খবরে রেনু কিসে করে ঢাকায় পৌঁছেছিল?</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row questionOptions">
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">A</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>ট্রেনে</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">B</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>জাহাজে</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">C</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>বাসে</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" style="font-weight:bold;">D</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>নৌকায়</p>
+</label>
+                        <span class="fas fa-check"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row questionBlock">
+
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 43</span></div>
+                <div class="questionText" style="display: block;">
+                    <p>‘আমি কিংবদন্তির কথা বলছি’ কবিতায় ‘কিংবদন্তি’ শব্দটি কিসের প্রতীক হয়ে উঠেছে?</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row questionOptions">
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">A</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>সভ্যতার</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">B</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>সংস্কৃতির</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">C</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>ঐতিহ্যের</p>
+</label>
+                        <span class="fas fa-check"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" style="font-weight:bold;">D</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>ইতিহাসের</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row questionBlock">
+
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 44</span></div>
+                <div class="questionText" style="display: block;">
+                    <p>‘পিঠে রক্তজবার মতো ক্ষত’ বলতে কী বোঝায়?</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row questionOptions">
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">A</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>জুলুম - নির্যাতন</p>
+</label>
+                        <span class="fas fa-check"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">B</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>লাঞ্ছনা -বঞ্চনা</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">C</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>হাসি - আনন্দ</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" style="font-weight:bold;">D</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>হতাশা - ব্যর্থতা</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row questionBlock">
+
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 45</span></div>
+                <div class="questionText" style="display: block;">
+                    <p>নিচের কোনটি শুদ্ধ বানান?</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row questionOptions">
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">A</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>বিভুতিভূষন</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">B</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>ইতিমধ্যে</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">C</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>অভ্যন্তরীণ</p>
+</label>
+                        <span class="fas fa-check"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" style="font-weight:bold;">D</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>ষ্টেশন</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                <span style="color: black !important; font-weight: bold;">Solution:</span>
+                <br>
+                <span style="color: black !important;"><p>অশুদ্ধ শব্দগুলোর শুদ্ধ রূপ: বিভূতিভূষণ, ইতোমধ্যে এবং স্টেশন।</p>
+</span>
+            </div>
+    </div>
+</div>
+<div class="row questionBlock">
+
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 46</span></div>
+                <div class="questionText" style="display: block;">
+                    <p>‘খ্রিষ্টাব্দ’ শব্দটি কোন ভাষার শব্দ যোগে গঠিত হয়েছে?</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row questionOptions">
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">A</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>ইংরেজি + তৎসম</p>
+</label>
+                        <span class="fas fa-check"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">B</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>ইংরেজি + ফারসি</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">C</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>ইংরেজি + বাংলা</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" style="font-weight:bold;">D</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>ফারসি + আরবি</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row questionBlock">
+
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 47</span></div>
+                <div class="questionText" style="display: block;">
+                    <p>অর্থানুসারে ‘হরিণ’ কোন ধরনের শব্দ?</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row questionOptions">
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">A</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>যৌগিক</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">B</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>মৌলিক</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">C</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>যোগরূঢ়</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" style="font-weight:bold;">D</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>রূঢ়ি</p>
+</label>
+                        <span class="fas fa-check"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                <span style="color: black !important; font-weight: bold;">Solution:</span>
+                <br>
+                <span style="color: black !important;"><p>যে শব্দ প্রত্যয় বা উপসর্গযোগে মূল শব্দের অর্থের অনুগামী না হয়ে অন্য কোনো বিশিষ্ট অর্থ জ্ঞাপন করে, তাকে রূঢ়ি শব্দ বলে। এরূপ, হরিণ, সন্দেশ, গবেষণা, হস্তী ইত্যাদি রূঢ়ি শব্দ।</p>
+</span>
+            </div>
+    </div>
+</div>
+<div class="row questionBlock">
+
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 48</span></div>
+                <div class="questionText" style="display: block;">
+                    <p>কোনটি ‘নদীর’ সমার্থক শব্দ নয়?</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row questionOptions">
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">A</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>সরিৎ</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">B</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>তটিনী</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">C</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>শৈবলিনী</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" style="font-weight:bold;">D</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>কল্লোল</p>
+</label>
+                        <span class="fas fa-check"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                <span style="color: black !important; font-weight: bold;">Solution:</span>
+                <br>
+                <span style="color: black !important;"><p>নদীর সমার্থক শব্দগুলো হলো- স্রোতঃস্বিনী, তটিনী, তরঙ্গিনী, প্রবাহিণী, শৈবলিনী ইত্যাদি।</p>
+</span>
+            </div>
+    </div>
+</div>
+<div class="row questionBlock">
+
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 49</span></div>
+                <div class="questionText" style="display: block;">
+                    <p>‘সৌম্য’ -এর বিপরীত শব্দ কোনটি?</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row questionOptions">
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">A</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>শান্ত</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">B</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>সুন্দর</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">C</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>উগ্র</p>
+</label>
+                        <span class="fas fa-check"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" style="font-weight:bold;">D</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>কৃষ্ণ</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                <span style="color: black !important; font-weight: bold;">Solution:</span>
+                <br>
+                <span style="color: black !important;"><p>সৌম্য শব্দের বিপরীত শব্দ- উগ্র।<br>
+শান্ত শব্দের বিপরীত শব্দ - অশান্ত/ দুরন্ত/ চঞ্চল।<br>
+সুন্দর শব্দের বিপরীত শব্দ - অসুন্দর/ কুৎসিত।<br>
+কৃষ্ণ শব্দের বিপরীত শব্দ - শুক্ল/ শুভ্র/ শ্বেত।</p>
+</span>
+            </div>
+    </div>
+</div>
+<div class="row questionBlock">
+
+    <div class="row question">
+        <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+            <div class="row">
+                <div class="serial"><span>Question 50</span></div>
+                <div class="questionText" style="display: block;">
+                    <p>কোন বানানটি শুদ্ধ?</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="row questionOptions">
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">A</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>দুরাবস্থা</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">B</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>দূরাবস্থা</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">C</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>দুরবস্থা</p>
+</label>
+                        <span class="fas fa-check"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 row questionOption">
+                <div class="input-group" style="align-items: center;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" style="font-weight:bold;">D</span>
+                    </div>
+                    <div class="input-group-append questionTable">
+                        <label style="margin-left:5px;"><p>দূরবস্থা</p>
+</label>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="row solveText" style="display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4;">
+                <span style="color: black !important; font-weight: bold;">Solution:</span>
+                <br>
+                <span style="color: black !important;"><p>সঠিক বানান দুরবস্থা যার অর্থ দুর্দশা, দুর্দিন, দুর্ভাগ্য, প্রতিকূল।</p>
+</span>
+            </div>
+    </div>
+</div>
+</div>
+
+    
+</div>
